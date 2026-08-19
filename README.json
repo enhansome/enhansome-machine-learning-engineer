@@ -1,761 +1,825 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":hatched_chick: Poetry Cookiecutter",
+              "description": "How to scaffold a modern Poetry-based development environment for Python packages and apps (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 444870763,
+                "language": "Jinja",
+                "last_commit": "2026-08-19T10:03:29Z",
+                "owner": "superlinear-ai",
+                "repo": "substrate",
+                "stars": 373
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":unicorn: Poetry workspace plugin",
+              "description": "How to create and manage a Poetry-based monorepo (15 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 394421610,
+                "language": "Python",
+                "last_commit": "2023-05-04T10:26:07Z",
+                "owner": "jacksmith15",
+                "repo": "poetry-workspace-plugin",
+                "stars": 86
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workflow"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":unicorn: What the f*ck Python!",
+              "description": "How to master Python by understanding its edge cases (1 day)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101684374,
+                "language": "Python",
+                "last_commit": "2026-01-13T19:49:12Z",
+                "owner": "satwikkansal",
+                "repo": "wtfpython",
+                "stars": 37060
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":snake: Please fix your decorators",
+              "description": "Why you should probably use to write your decorators (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10357291,
+                "language": "Python",
+                "last_commit": "2026-08-15T13:20:40Z",
+                "owner": "GrahamDumpleton",
+                "repo": "wrapt",
+                "stars": 2293
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":unicorn: Effective Python",
+              "description": "A collection of Python idioms (X hours)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81207058,
+                "language": "Python",
+                "last_commit": "2023-06-13T19:03:29Z",
+                "owner": "SigmaQuan",
+                "repo": "Better-Python-59-Ways",
+                "stars": 1383
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Python patterns"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":snake: poetry",
+                  "description": "Manage the packaging and dependencies of your Python project",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 123303402,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T22:01:20Z",
+                    "owner": "python-poetry",
+                    "repo": "poetry",
+                    "stars": 34287
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: cookiecutter",
+                  "description": "Scaffold new Python packages or apps quickly with a Cookiecutter template",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11407242,
+                    "language": "Python",
+                    "last_commit": "2026-04-01T17:46:44Z",
+                    "owner": "cookiecutter",
+                    "repo": "cookiecutter",
+                    "stars": 25058
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: commitizen",
+                  "description": "Check that commit messages satisfy Conventional Commits and automate Semantic Versioning and Keep a Changelog",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 106127589,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T07:45:43Z",
+                    "owner": "commitizen-tools",
+                    "repo": "commitizen",
+                    "stars": 3495
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: poe",
+                  "description": "Define and run tasks in a Poetry project with Poe the Poet",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 267704930,
+                    "language": "Python",
+                    "last_commit": "2026-07-12T13:04:14Z",
+                    "owner": "nat-n",
+                    "repo": "poethepoet",
+                    "stars": 2061
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: cruft",
+                  "description": "Update a Python package's underlying Cookiecutter scaffolding",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 210093619,
+                    "language": "Python",
+                    "last_commit": "2024-12-25T14:07:35Z",
+                    "owner": "cruft",
+                    "repo": "cruft",
+                    "stars": 1583
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: poetry-workspace-plugin",
+                  "description": "Manage a Python monorepo with this Poetry plugin",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 394421610,
+                    "language": "Python",
+                    "last_commit": "2023-05-04T10:26:07Z",
+                    "owner": "jacksmith15",
+                    "repo": "poetry-workspace-plugin",
+                    "stars": 86
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Workflow"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":hatched_chick: black",
+                  "description": "Automatically format your code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 125266328,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T00:56:53Z",
+                    "owner": "psf",
+                    "repo": "black",
+                    "stars": 41807
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: mypy",
+                  "description": "Check the type-correctness of your code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 7053637,
+                    "language": "Python",
+                    "last_commit": "2026-08-15T03:51:34Z",
+                    "owner": "python",
+                    "repo": "mypy",
+                    "stars": 20597
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: bandit",
+                  "description": "Find common security issues",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 131129792,
+                    "language": "Python",
+                    "last_commit": "2026-08-04T03:25:32Z",
+                    "owner": "PyCQA",
+                    "repo": "bandit",
+                    "stars": 8224
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":hatched_chick: isort",
+                  "description": "Automatically sort your import statements",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 12550138,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T20:50:04Z",
+                    "owner": "PyCQA",
+                    "repo": "isort",
+                    "stars": 6946
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: pre-commit hooks",
+                  "description": "A collection of pre-commit hooks that check file quality",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 17714713,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T23:37:42Z",
+                    "owner": "pre-commit",
+                    "repo": "pre-commit-hooks",
+                    "stars": 6662
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: pyupgrade",
+                  "description": "Check that your code is written using the latest Python language features",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 83462592,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T23:33:41Z",
+                    "owner": "asottile",
+                    "repo": "pyupgrade",
+                    "stars": 4114
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: flake8",
+                  "description": "Check your code for bugs and that your code style is PEP8-compliant",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 24000265,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T23:41:40Z",
+                    "owner": "PyCQA",
+                    "repo": "flake8",
+                    "stars": 3815
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: coverage.py",
+                  "description": "Check your code's test coverage",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 138421996,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T04:57:03Z",
+                    "owner": "coveragepy",
+                    "repo": "coveragepy",
+                    "stars": 3408
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: safety",
+                  "description": "Check that your dependencies don't have any known security vulnerabilities",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 71359600,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T00:09:41Z",
+                    "owner": "pyupio",
+                    "repo": "safety",
+                    "stars": 1994
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: flake8 extensions",
+                  "description": "An awesome list of Flake8 extensions",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 156768939,
+                    "language": null,
+                    "last_commit": "2026-07-21T07:29:57Z",
+                    "owner": "DmytroLitvinov",
+                    "repo": "awesome-flake8-extensions",
+                    "stars": 1278
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: pydocstyle",
+                  "description": "Check that your code is documented",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 3316803,
+                    "language": "Python",
+                    "last_commit": "2023-11-03T22:28:46Z",
+                    "owner": "PyCQA",
+                    "repo": "pydocstyle",
+                    "stars": 1116
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: pytest-recording",
+                  "description": "Record and play back HTTP requests in your pytest tests",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 197214988,
+                    "language": "Python",
+                    "last_commit": "2026-07-20T20:37:52Z",
+                    "owner": "kiwicom",
+                    "repo": "pytest-recording",
+                    "stars": 615
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: darglint",
+                  "description": "Check that your docstrings match your function signature",
+                  "children": [],
+                  "repo_info": {
+                    "archived": true,
+                    "id": 104758499,
+                    "language": "Python",
+                    "last_commit": "2022-12-08T14:26:52Z",
+                    "owner": "terrencepreilly",
+                    "repo": "darglint",
+                    "stars": 483
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: pygrep hooks",
+                  "description": "A collection of pre-commit hooks that check for common Python code smells",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 142720128,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T23:37:19Z",
+                    "owner": "pre-commit",
+                    "repo": "pygrep-hooks",
+                    "stars": 243
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: shellcheck",
+                  "description": "Check the quality of your shell scripts",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 219348188,
+                    "language": "Python",
+                    "last_commit": "2026-07-14T06:50:03Z",
+                    "owner": "shellcheck-py",
+                    "repo": "shellcheck-py",
+                    "stars": 238
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Code quality"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":snake: fastapi",
+                  "description": "Create RESTful APIs based on type annotations",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 160919119,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T08:58:11Z",
+                    "owner": "fastapi",
+                    "repo": "fastapi",
+                    "stars": 101691
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: streamlit",
+                  "description": "Create web apps with a single Python file",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 204086862,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T11:36:55Z",
+                    "owner": "streamlit",
+                    "repo": "streamlit",
+                    "stars": 45573
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: typer",
+                  "description": "Create CLIs based on type annotations",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 229937405,
+                    "language": "Python",
+                    "last_commit": "2026-08-12T07:20:14Z",
+                    "owner": "fastapi",
+                    "repo": "typer",
+                    "stars": 19907
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Application development"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": ":snake: tqdm",
+                  "description": "Easily add progress bars to long-running jobs",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 36804486,
+                    "language": "Python",
+                    "last_commit": "2026-08-17T21:24:27Z",
+                    "owner": "tqdm",
+                    "repo": "tqdm",
+                    "stars": 31276
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: mkdocs",
+                  "description": "Create developer documentation for your project",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 15830664,
+                    "language": "Python",
+                    "last_commit": "2025-10-20T13:17:06Z",
+                    "owner": "mkdocs",
+                    "repo": "mkdocs",
+                    "stars": 22359
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: viztracer",
+                  "description": "Vizualize your code's performance with a flamegraph",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 285134677,
+                    "language": "Python",
+                    "last_commit": "2026-08-18T13:43:55Z",
+                    "owner": "gaogaotiantian",
+                    "repo": "viztracer",
+                    "stars": 7721
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: pdoc",
+                  "description": "Generate API documentation for your code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 11885132,
+                    "language": "Python",
+                    "last_commit": "2026-07-01T08:04:25Z",
+                    "owner": "mitmproxy",
+                    "repo": "pdoc",
+                    "stars": 2511
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: birdseye",
+                  "description": "Graphically debug your Python code",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 98051503,
+                    "language": "JavaScript",
+                    "last_commit": "2026-01-11T12:25:17Z",
+                    "owner": "alexmojaki",
+                    "repo": "birdseye",
+                    "stars": 1718
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: hvplot",
+                  "description": "Create interactive plots from pandas dataframes",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 125869973,
+                    "language": "Python",
+                    "last_commit": "2026-08-19T10:40:06Z",
+                    "owner": "holoviz",
+                    "repo": "hvplot",
+                    "stars": 1356
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: bump2version",
+                  "description": "Release a new version of your package",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 86366332,
+                    "language": "Python",
+                    "last_commit": "2025-02-20T09:07:16Z",
+                    "owner": "c4urself",
+                    "repo": "bump2version",
+                    "stars": 1115
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: coloredlogs",
+                  "description": "Increase your logs' readability with colour",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 10389547,
+                    "language": "Python",
+                    "last_commit": "2024-06-12T18:02:58Z",
+                    "owner": "xolox",
+                    "repo": "python-coloredlogs",
+                    "stars": 559
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": ":snake: scalene",
+                  "description": "Profile your code's CPU and memory usage by line",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 450251543,
+                    "language": "JavaScript",
+                    "last_commit": "2025-04-14T20:50:41Z",
+                    "owner": "emeryberger",
+                    "repo": "scalene",
+                    "stars": 239
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Utilities"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Curated Python packages"
+        }
+      ],
       "title": "Software Engineering"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": ":hatched_chick: Poetry Cookiecutter",
-          "description": "How to scaffold a modern Poetry-based development environment for Python packages and apps (30 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Jinja",
-            "last_commit": "2026-02-20T10:43:50Z",
-            "owner": "superlinear-ai",
-            "repo": "substrate",
-            "stars": 373
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":snake: UMAP: Uniform Manifold Approximation and Projection",
+              "description": "How to reduce dimensionality for visualization and modelling (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95995403,
+                "language": "Python",
+                "last_commit": "2026-08-17T10:31:28Z",
+                "owner": "lmcinnes",
+                "repo": "umap",
+                "stars": 8253
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":snake: PyNNDescent",
+              "description": "How to find nearest neighbours in huge datasets (15 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120684701,
+                "language": "Python",
+                "last_commit": "2026-08-01T22:48:17Z",
+                "owner": "lmcinnes",
+                "repo": "pynndescent",
+                "stars": 969
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Unsupervised"
         },
         {
-          "node_type": "item",
-          "title": ":unicorn: Poetry workspace plugin",
-          "description": "How to create and manage a Poetry-based monorepo (15 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-04T10:26:07Z",
-            "owner": "jacksmith15",
-            "repo": "poetry-workspace-plugin",
-            "stars": 86
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":snake: CVAT: Computer Vision Annotation Tool",
+              "description": "A tool for labelling images (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139156354,
+                "language": "Python",
+                "last_commit": "2026-08-19T12:13:58Z",
+                "owner": "cvat-ai",
+                "repo": "cvat",
+                "stars": 16547
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":snake: Doccano",
+              "description": "A tool for labelling text (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 132709824,
+                "language": "Python",
+                "last_commit": "2026-04-14T21:16:25Z",
+                "owner": "doccano",
+                "repo": "doccano",
+                "stars": 10745
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":snake: Awesome Data Labelling",
+              "description": "An awesome list of data labelling tools (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192640905,
+                "language": null,
+                "last_commit": "2024-06-17T06:18:41Z",
+                "owner": "HumanSignal",
+                "repo": "awesome-data-labeling",
+                "stars": 4397
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Labelling"
         }
       ],
-      "title": "Workflow"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":unicorn: What the f*ck Python!",
-          "description": "How to master Python by understanding its edge cases (1 day)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-01-13T19:49:12Z",
-            "owner": "satwikkansal",
-            "repo": "wtfpython",
-            "stars": 37059
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: Please fix your decorators",
-          "description": "Why you should probably use to write your decorators (30 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T13:20:40Z",
-            "owner": "GrahamDumpleton",
-            "repo": "wrapt",
-            "stars": 2293
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":unicorn: Effective Python",
-          "description": "A collection of Python idioms (X hours)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-06-13T19:03:29Z",
-            "owner": "SigmaQuan",
-            "repo": "Better-Python-59-Ways",
-            "stars": 1383
-          }
-        }
-      ],
-      "title": "Python patterns"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Curated Python packages"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":snake: poetry",
-          "description": "Manage the packaging and dependencies of your Python project",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T22:01:20Z",
-            "owner": "python-poetry",
-            "repo": "poetry",
-            "stars": 34287
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: cookiecutter",
-          "description": "Scaffold new Python packages or apps quickly with a Cookiecutter template",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-01T17:46:44Z",
-            "owner": "cookiecutter",
-            "repo": "cookiecutter",
-            "stars": 25057
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: commitizen",
-          "description": "Check that commit messages satisfy Conventional Commits and automate Semantic Versioning and Keep a Changelog",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T07:45:43Z",
-            "owner": "commitizen-tools",
-            "repo": "commitizen",
-            "stars": 3495
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: poe",
-          "description": "Define and run tasks in a Poetry project with Poe the Poet",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T13:04:14Z",
-            "owner": "nat-n",
-            "repo": "poethepoet",
-            "stars": 2060
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: cruft",
-          "description": "Update a Python package's underlying Cookiecutter scaffolding",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-12-25T14:07:35Z",
-            "owner": "cruft",
-            "repo": "cruft",
-            "stars": 1583
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: poetry-workspace-plugin",
-          "description": "Manage a Python monorepo with this Poetry plugin",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-05-04T10:26:07Z",
-            "owner": "jacksmith15",
-            "repo": "poetry-workspace-plugin",
-            "stars": 86
-          }
-        }
-      ],
-      "title": "Workflow"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":hatched_chick: black",
-          "description": "Automatically format your code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:55:15Z",
-            "owner": "psf",
-            "repo": "black",
-            "stars": 41805
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: mypy",
-          "description": "Check the type-correctness of your code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-15T03:51:34Z",
-            "owner": "python",
-            "repo": "mypy",
-            "stars": 20597
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: bandit",
-          "description": "Find common security issues",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-04T03:25:32Z",
-            "owner": "PyCQA",
-            "repo": "bandit",
-            "stars": 8223
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":hatched_chick: isort",
-          "description": "Automatically sort your import statements",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:29:20Z",
-            "owner": "PyCQA",
-            "repo": "isort",
-            "stars": 6946
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: pre-commit hooks",
-          "description": "A collection of pre-commit hooks that check file quality",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:37:42Z",
-            "owner": "pre-commit",
-            "repo": "pre-commit-hooks",
-            "stars": 6662
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: pyupgrade",
-          "description": "Check that your code is written using the latest Python language features",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:33:41Z",
-            "owner": "asottile",
-            "repo": "pyupgrade",
-            "stars": 4113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: flake8",
-          "description": "Check your code for bugs and that your code style is PEP8-compliant",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:41:40Z",
-            "owner": "PyCQA",
-            "repo": "flake8",
-            "stars": 3815
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: coverage.py",
-          "description": "Check your code's test coverage",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T14:52:51Z",
-            "owner": "coveragepy",
-            "repo": "coveragepy",
-            "stars": 3408
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: safety",
-          "description": "Check that your dependencies don't have any known security vulnerabilities",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-21T19:53:06Z",
-            "owner": "pyupio",
-            "repo": "safety",
-            "stars": 1994
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: flake8 extensions",
-          "description": "An awesome list of Flake8 extensions",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-21T07:29:57Z",
-            "owner": "DmytroLitvinov",
-            "repo": "awesome-flake8-extensions",
-            "stars": 1278
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: pydocstyle",
-          "description": "Check that your code is documented",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2023-11-03T22:28:46Z",
-            "owner": "PyCQA",
-            "repo": "pydocstyle",
-            "stars": 1116
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: pytest-recording",
-          "description": "Record and play back HTTP requests in your pytest tests",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-20T20:37:52Z",
-            "owner": "kiwicom",
-            "repo": "pytest-recording",
-            "stars": 615
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: darglint",
-          "description": "Check that your docstrings match your function signature",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Python",
-            "last_commit": "2022-12-08T14:26:52Z",
-            "owner": "terrencepreilly",
-            "repo": "darglint",
-            "stars": 483
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: pygrep hooks",
-          "description": "A collection of pre-commit hooks that check for common Python code smells",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T23:37:19Z",
-            "owner": "pre-commit",
-            "repo": "pygrep-hooks",
-            "stars": 243
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: shellcheck",
-          "description": "Check the quality of your shell scripts",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-14T06:50:03Z",
-            "owner": "shellcheck-py",
-            "repo": "shellcheck-py",
-            "stars": 238
-          }
-        }
-      ],
-      "title": "Code quality"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":snake: fastapi",
-          "description": "Create RESTful APIs based on type annotations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:36:27Z",
-            "owner": "fastapi",
-            "repo": "fastapi",
-            "stars": 101678
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: streamlit",
-          "description": "Create web apps with a single Python file",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T18:28:42Z",
-            "owner": "streamlit",
-            "repo": "streamlit",
-            "stars": 45566
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: typer",
-          "description": "Create CLIs based on type annotations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-12T07:20:14Z",
-            "owner": "fastapi",
-            "repo": "typer",
-            "stars": 19907
-          }
-        }
-      ],
-      "title": "Application development"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":snake: tqdm",
-          "description": "Easily add progress bars to long-running jobs",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T21:24:27Z",
-            "owner": "tqdm",
-            "repo": "tqdm",
-            "stars": 31276
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: mkdocs",
-          "description": "Create developer documentation for your project",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-10-20T13:17:06Z",
-            "owner": "mkdocs",
-            "repo": "mkdocs",
-            "stars": 22356
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: viztracer",
-          "description": "Vizualize your code's performance with a flamegraph",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T13:43:55Z",
-            "owner": "gaogaotiantian",
-            "repo": "viztracer",
-            "stars": 7721
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: pdoc",
-          "description": "Generate API documentation for your code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-01T08:04:25Z",
-            "owner": "mitmproxy",
-            "repo": "pdoc",
-            "stars": 2511
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: birdseye",
-          "description": "Graphically debug your Python code",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2026-01-11T12:25:17Z",
-            "owner": "alexmojaki",
-            "repo": "birdseye",
-            "stars": 1717
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: hvplot",
-          "description": "Create interactive plots from pandas dataframes",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-14T17:33:46Z",
-            "owner": "holoviz",
-            "repo": "hvplot",
-            "stars": 1356
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: bump2version",
-          "description": "Release a new version of your package",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2025-02-20T09:07:16Z",
-            "owner": "c4urself",
-            "repo": "bump2version",
-            "stars": 1115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: coloredlogs",
-          "description": "Increase your logs' readability with colour",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2024-06-12T18:02:58Z",
-            "owner": "xolox",
-            "repo": "python-coloredlogs",
-            "stars": 559
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: scalene",
-          "description": "Profile your code's CPU and memory usage by line",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "JavaScript",
-            "last_commit": "2025-04-14T20:50:41Z",
-            "owner": "emeryberger",
-            "repo": "scalene",
-            "stars": 239
-          }
-        }
-      ],
-      "title": "Utilities"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "Machine Learning"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": ":snake: UMAP: Uniform Manifold Approximation and Projection",
-          "description": "How to reduce dimensionality for visualization and modelling (30 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-17T10:31:28Z",
-            "owner": "lmcinnes",
-            "repo": "umap",
-            "stars": 8253
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":snake: invoke",
+              "description": "How to implement common tasks you run on your project as a CLI (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3587206,
+                "language": "Python",
+                "last_commit": "2026-04-07T15:39:24Z",
+                "owner": "pyinvoke",
+                "repo": "invoke",
+                "stars": 4770
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":snake: poe",
+              "description": "How to implement common tasks you run on your project as a CLI (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 267704930,
+                "language": "Python",
+                "last_commit": "2026-07-12T13:04:14Z",
+                "owner": "nat-n",
+                "repo": "poethepoet",
+                "stars": 2061
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CI/CD"
         },
         {
-          "node_type": "item",
-          "title": ":snake: PyNNDescent",
-          "description": "How to find nearest neighbours in huge datasets (15 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-01T22:48:17Z",
-            "owner": "lmcinnes",
-            "repo": "pynndescent",
-            "stars": 969
-          }
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":unicorn: Awesome Terraform",
+              "description": "An awesome list of Terraform resources (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 58478671,
+                "language": null,
+                "last_commit": "2026-07-27T07:32:27Z",
+                "owner": "shuaibiyy",
+                "repo": "awesome-tf",
+                "stars": 6571
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":unicorn: Terraform pre-commit hooks collection",
+              "description": "How to automate Terraform code quality checks with pre-commit (1 hour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69382485,
+                "language": "Shell",
+                "last_commit": "2026-08-18T16:38:50Z",
+                "owner": "antonbabenko",
+                "repo": "pre-commit-terraform",
+                "stars": 3757
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ":snake: Terraform best practices",
+              "description": "Terraform best practices (1 hour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94737529,
+                "language": "HCL",
+                "last_commit": "2024-12-20T00:40:37Z",
+                "owner": "ozbillwang",
+                "repo": "terraform-best-practices",
+                "stars": 1842
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Terraform"
         }
       ],
-      "title": "Unsupervised"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":snake: CVAT: Computer Vision Annotation Tool",
-          "description": "A tool for labelling images (30 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-18T19:28:08Z",
-            "owner": "cvat-ai",
-            "repo": "cvat",
-            "stars": 16541
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: Doccano",
-          "description": "A tool for labelling text (30 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-14T21:16:25Z",
-            "owner": "doccano",
-            "repo": "doccano",
-            "stars": 10744
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: Awesome Data Labelling",
-          "description": "An awesome list of data labelling tools (30 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2024-06-17T06:18:41Z",
-            "owner": "HumanSignal",
-            "repo": "awesome-data-labeling",
-            "stars": 4397
-          }
-        }
-      ],
-      "title": "Labelling"
-    },
-    {
-      "description": "",
-      "items": [],
       "title": "DevOps"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":snake: invoke",
-          "description": "How to implement common tasks you run on your project as a CLI (30 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-04-07T15:39:24Z",
-            "owner": "pyinvoke",
-            "repo": "invoke",
-            "stars": 4769
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: poe",
-          "description": "How to implement common tasks you run on your project as a CLI (30 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-07-12T13:04:14Z",
-            "owner": "nat-n",
-            "repo": "poethepoet",
-            "stars": 2060
-          }
-        }
-      ],
-      "title": "CI/CD"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": ":unicorn: Awesome Terraform",
-          "description": "An awesome list of Terraform resources (30 min)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-07-27T07:32:27Z",
-            "owner": "shuaibiyy",
-            "repo": "awesome-tf",
-            "stars": 6571
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":unicorn: Terraform pre-commit hooks collection",
-          "description": "How to automate Terraform code quality checks with pre-commit (1 hour)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Shell",
-            "last_commit": "2026-08-18T16:38:50Z",
-            "owner": "antonbabenko",
-            "repo": "pre-commit-terraform",
-            "stars": 3757
-          }
-        },
-        {
-          "node_type": "item",
-          "title": ":snake: Terraform best practices",
-          "description": "Terraform best practices (1 hour)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "HCL",
-            "last_commit": "2024-12-20T00:40:37Z",
-            "owner": "ozbillwang",
-            "repo": "terraform-best-practices",
-            "stars": 1842
-          }
-        }
-      ],
-      "title": "Terraform"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:40:03.344Z",
+    "last_updated": "2026-08-19T12:37:42.903Z",
     "original_repository": "superlinear-ai/awesome-machine-learning-engineer",
+    "original_repository_id": 128728767,
     "original_repository_sha": "63428e065d128b0461120979a439fee9d65b7a39",
     "enhanced_repository": "enhansome/enhansome-machine-learning-engineer",
     "enhanced_repository_description": null,
