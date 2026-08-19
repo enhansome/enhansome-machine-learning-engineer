@@ -4,7 +4,7 @@
 
 <img height="280" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg?sanitize=true" alt="Awesome">
 
-For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,664 | 🐛 102 | 📅 2026-08-18.
+For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,774 | 🐛 102 | 📅 2026-08-18.
 
 </div>
 
@@ -73,7 +73,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Python patterns
 
-* :unicorn: [What the f\*ck Python!](https://github.com/satwikkansal/wtfpython) ⭐ 37,060 | 🐛 72 | 🌐 Python | 📅 2026-01-13 - How to master Python by understanding its edge cases (1 day)
+* :unicorn: [What the f\*ck Python!](https://github.com/satwikkansal/wtfpython) ⭐ 37,059 | 🐛 72 | 🌐 Python | 📅 2026-01-13 - How to master Python by understanding its edge cases (1 day)
 * :snake: [Please fix your decorators](https://hynek.me/articles/decorators/) - Why you should probably use [`wrapt`](https://github.com/GrahamDumpleton/wrapt) ⭐ 2,293 | 🐛 0 | 🌐 Python | 📅 2026-08-15 to write your decorators (30 min)
 * :unicorn: [Effective Python](https://github.com/SigmaQuan/Better-Python-59-Ways/blob/master/README.md) ⭐ 1,383 | 🐛 25 | 🌐 Python | 📅 2023-06-13 - A collection of Python idioms (X hours)
 * :hatched\_chick: [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - How to write idiomatic Python (15 min)
@@ -98,19 +98,19 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 #### Workflow
 
-* :snake: [poetry](https://github.com/python-poetry/poetry) ⭐ 34,287 | 🐛 563 | 🌐 Python | 📅 2026-08-17 - Manage the packaging and dependencies of your Python project
+* :snake: [poetry](https://github.com/python-poetry/poetry) ⭐ 34,289 | 🐛 563 | 🌐 Python | 📅 2026-08-17 - Manage the packaging and dependencies of your Python project
 * :snake: [cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 25,058 | 🐛 312 | 🌐 Python | 📅 2026-04-01 - Scaffold new Python packages or apps quickly with a Cookiecutter template
-* :snake: [commitizen](https://github.com/commitizen-tools/commitizen) ⭐ 3,495 | 🐛 183 | 🌐 Python | 📅 2026-08-17 - Check that commit messages satisfy [Conventional Commits](https://www.conventionalcommits.org/) and automate [Semantic Versioning](https://semver.org/) and [Keep a Changelog](https://keepachangelog.com/)
+* :snake: [commitizen](https://github.com/commitizen-tools/commitizen) ⭐ 3,495 | 🐛 182 | 🌐 Python | 📅 2026-08-19 - Check that commit messages satisfy [Conventional Commits](https://www.conventionalcommits.org/) and automate [Semantic Versioning](https://semver.org/) and [Keep a Changelog](https://keepachangelog.com/)
 * :snake: [poe](https://github.com/nat-n/poethepoet) ⭐ 2,061 | 🐛 13 | 🌐 Python | 📅 2026-07-12 - Define and run tasks in a Poetry project with Poe the Poet
 * :snake: [cruft](https://github.com/cruft/cruft) ⭐ 1,583 | 🐛 94 | 🌐 Python | 📅 2024-12-25 - Update a Python package's underlying Cookiecutter scaffolding
 * :snake: [poetry-workspace-plugin](https://github.com/jacksmith15/poetry-workspace-plugin) ⭐ 86 | 🐛 5 | 🌐 Python | 📅 2023-05-04 - Manage a Python monorepo with this Poetry plugin
 
 #### Code quality
 
-* :hatched\_chick: [black](https://github.com/psf/black) ⭐ 41,807 | 🐛 304 | 🌐 Python | 📅 2026-08-19 - Automatically format your code
-* :snake: [mypy](https://github.com/python/mypy) ⭐ 20,597 | 🐛 3,191 | 🌐 Python | 📅 2026-08-15 - Check the type-correctness of your code
+* :hatched\_chick: [black](https://github.com/psf/black) ⭐ 41,809 | 🐛 297 | 🌐 Python | 📅 2026-08-19 - Automatically format your code
+* :snake: [mypy](https://github.com/python/mypy) ⭐ 20,597 | 🐛 3,188 | 🌐 Python | 📅 2026-08-19 - Check the type-correctness of your code
 * :snake: [bandit](https://github.com/PyCQA/bandit) ⭐ 8,224 | 🐛 259 | 🌐 Python | 📅 2026-08-04 - Find common security issues
-* :hatched\_chick: [isort](https://github.com/PyCQA/isort) ⭐ 6,946 | 🐛 88 | 🌐 Python | 📅 2026-08-18 - Automatically sort your import statements
+* :hatched\_chick: [isort](https://github.com/PyCQA/isort) ⭐ 6,947 | 🐛 88 | 🌐 Python | 📅 2026-08-18 - Automatically sort your import statements
 * :snake: [pre-commit hooks](https://github.com/pre-commit/pre-commit-hooks) ⭐ 6,662 | 🐛 7 | 🌐 Python | 📅 2026-08-17 - A collection of [pre-commit](https://pre-commit.com/) hooks that check file quality
 * :snake: [pyupgrade](https://github.com/asottile/pyupgrade) ⭐ 4,114 | 🐛 21 | 🌐 Python | 📅 2026-08-17 - Check that your code is written using the latest Python language features
 * :snake: [flake8](https://github.com/PyCQA/flake8) ⭐ 3,815 | 🐛 23 | 🌐 Python | 📅 2026-08-17 - Check your code for bugs and that your code style is [PEP8](https://peps.python.org/pep-0008/)-compliant
@@ -128,18 +128,18 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 #### Application development
 
-* :snake: [fastapi](https://github.com/tiangolo/fastapi) ⭐ 101,691 | 🐛 74 | 🌐 Python | 📅 2026-08-19 - Create RESTful APIs based on type annotations
-* :snake: [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,573 | 🐛 1,187 | 🌐 Python | 📅 2026-08-19 - Create web apps with a single Python file
-* :snake: [typer](https://github.com/tiangolo/typer) ⭐ 19,907 | 🐛 41 | 🌐 Python | 📅 2026-08-12 - Create CLIs based on type annotations
+* :snake: [fastapi](https://github.com/tiangolo/fastapi) ⭐ 101,705 | 🐛 74 | 🌐 Python | 📅 2026-08-19 - Create RESTful APIs based on type annotations
+* :snake: [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,574 | 🐛 1,187 | 🌐 Python | 📅 2026-08-19 - Create web apps with a single Python file
+* :snake: [typer](https://github.com/tiangolo/typer) ⭐ 19,908 | 🐛 41 | 🌐 Python | 📅 2026-08-12 - Create CLIs based on type annotations
 
 #### Utilities
 
-* :snake: [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,276 | 🐛 595 | 🌐 Python | 📅 2026-08-17 - Easily add progress bars to long-running jobs
-* :snake: [mkdocs](https://github.com/mkdocs/mkdocs) ⭐ 22,359 | 🐛 185 | 🌐 Python | 📅 2025-10-20 - Create developer documentation for your project
-* :snake: [viztracer](https://github.com/gaogaotiantian/viztracer) ⭐ 7,721 | 🐛 28 | 🌐 Python | 📅 2026-08-18 - Vizualize your code's performance with a [flamegraph](https://www.brendangregg.com/flamegraphs.html)
+* :snake: [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,277 | 🐛 597 | 🌐 Python | 📅 2026-08-17 - Easily add progress bars to long-running jobs
+* :snake: [mkdocs](https://github.com/mkdocs/mkdocs) ⭐ 22,359 | 🐛 186 | 🌐 Python | 📅 2025-10-20 - Create developer documentation for your project
+* :snake: [viztracer](https://github.com/gaogaotiantian/viztracer) ⭐ 7,722 | 🐛 28 | 🌐 Python | 📅 2026-08-18 - Vizualize your code's performance with a [flamegraph](https://www.brendangregg.com/flamegraphs.html)
 * :snake: [pdoc](https://github.com/mitmproxy/pdoc) ⭐ 2,511 | 🐛 69 | 🌐 Python | 📅 2026-07-01 - Generate API documentation for your code
 * :snake: [birdseye](https://github.com/alexmojaki/birdseye) ⭐ 1,718 | 🐛 23 | 🌐 JavaScript | 📅 2026-01-11 - Graphically debug your Python code
-* :snake: [hvplot](https://github.com/holoviz/hvplot) ⭐ 1,356 | 🐛 398 | 🌐 Python | 📅 2026-08-19 - Create interactive plots from pandas dataframes
+* :snake: [hvplot](https://github.com/holoviz/hvplot) ⭐ 1,357 | 🐛 398 | 🌐 Python | 📅 2026-08-19 - Create interactive plots from pandas dataframes
 * :snake: [bump2version](https://github.com/c4urself/bump2version) ⭐ 1,115 | 🐛 115 | 🌐 Python | 📅 2025-02-20 - Release a new version of your package
 * :snake: [coloredlogs](https://github.com/xolox/python-coloredlogs) ⭐ 559 | 🐛 37 | 🌐 Python | 📅 2024-06-12 - Increase your logs' readability with colour
 * :snake: [scalene](https://github.com/emeryberger/scalene) ⭐ 239 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-14 - Profile your code's CPU and memory usage by line
@@ -164,7 +164,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Explainability
 
-* :snake: [SHAP: SHapley Additive exPlanations](https://github.com/slundberg/shap) ⭐ 25,692 | 🐛 1,010 | 🌐 Jupyter Notebook | 📅 2026-08-11 - How to explain a model's output with Shapley values (30 min)
+* :snake: [SHAP: SHapley Additive exPlanations](https://github.com/slundberg/shap) ⭐ 25,693 | 🐛 1,010 | 🌐 Jupyter Notebook | 📅 2026-08-11 - How to explain a model's output with Shapley values (30 min)
 * :unicorn: [Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/) - How Shapley values are approximated by SHAP (30 min)
 
 ### Unsupervised
@@ -193,7 +193,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 ### Time Series Analysis
 
 * :snake: [The Prophet model](https://otexts.com/fpp3/prophet.html) - How Meta's Prophet model decomposes a time series into a trend, seasonality, and holiday components (30 min)
-* :snake: [Darts - Time Series Made Easy in Python](https://github.com/unit8co/darts) ⭐ 9,498 | 🐛 222 | 🌐 Python | 📅 2026-08-06 - How to build forecasting models with `darts` (1 hour)
+* :snake: [Darts - Time Series Made Easy in Python](https://github.com/unit8co/darts) ⭐ 9,498 | 🐛 223 | 🌐 Python | 📅 2026-08-06 - How to build forecasting models with `darts` (1 hour)
 
 ### Recommender Systems
 
@@ -218,9 +218,9 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Labelling
 
-* :snake: [CVAT: Computer Vision Annotation Tool](https://github.com/openvinotoolkit/cvat) ⭐ 16,547 | 🐛 586 | 🌐 Python | 📅 2026-08-19 - A tool for labelling images (30 min)
-* :snake: [Doccano](https://github.com/doccano/doccano) ⭐ 10,745 | 🐛 395 | 🌐 Python | 📅 2026-04-14 - A tool for labelling text (30 min)
-* :snake: [Awesome Data Labelling](https://github.com/heartexlabs/awesome-data-labeling) ⭐ 4,397 | 🐛 57 | 📅 2024-06-17 - An awesome list of data labelling tools (30 min)
+* :snake: [CVAT: Computer Vision Annotation Tool](https://github.com/openvinotoolkit/cvat) ⭐ 16,549 | 🐛 587 | 🌐 Python | 📅 2026-08-19 - A tool for labelling images (30 min)
+* :snake: [Doccano](https://github.com/doccano/doccano) ⭐ 10,747 | 🐛 395 | 🌐 Python | 📅 2026-04-14 - A tool for labelling text (30 min)
+* :snake: [Awesome Data Labelling](https://github.com/heartexlabs/awesome-data-labeling) ⭐ 4,398 | 🐛 57 | 📅 2024-06-17 - An awesome list of data labelling tools (30 min)
 
 ## DevOps
 
@@ -246,11 +246,11 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 * :unicorn: [Build secrets in Docker and Compose, the secure way](https://pythonspeed.com/articles/build-secrets-docker-compose/) - How to use secrets in a Docker build (15 min)
 * :unicorn: [Security scanners for Python and Docker](https://pythonspeed.com/articles/docker-python-security-scan/) - How to scan your Docker image for security issues with your code and Docker image (30 min)
 * :unicorn: [The security scanner that cried wolf](https://pythonspeed.com/articles/docker-security-scanner/) - How to scan your Docker image for security issues without false positives (15 min)
-* :unicorn: [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,668 | 🐛 12 | 📅 2026-08-18 - An awesome list of Docker resources (30 min)
+* :unicorn: [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 36,668 | 🐛 14 | 📅 2026-08-19 - An awesome list of Docker resources (30 min)
 
 ### Data pipelines
 
-* :snake: [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,718 | 🐛 29 | 🌐 Python | 📅 2026-08-19 - How to test and document your data and data pipelines (30 min)
+* :snake: [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,721 | 🐛 23 | 🌐 Python | 📅 2026-08-19 - How to test and document your data and data pipelines (30 min)
 
 ### Shell
 
@@ -264,7 +264,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 ### Terraform
 
 * :unicorn: [Awesome Terraform](https://github.com/shuaibiyy/awesome-terraform) ⭐ 6,571 | 🐛 13 | 📅 2026-07-27 - An awesome list of Terraform resources (30 min)
-* :unicorn: [Terraform pre-commit hooks collection](https://github.com/antonbabenko/pre-commit-terraform) ⭐ 3,757 | 🐛 28 | 🌐 Shell | 📅 2026-08-18 - How to automate Terraform code quality checks with pre-commit (1 hour)
+* :unicorn: [Terraform pre-commit hooks collection](https://github.com/antonbabenko/pre-commit-terraform) ⭐ 3,757 | 🐛 29 | 🌐 Shell | 📅 2026-08-19 - How to automate Terraform code quality checks with pre-commit (1 hour)
 * :snake: [Terraform best practices](https://github.com/ozbillwang/terraform-best-practices) ⭐ 1,842 | 🐛 2 | 🌐 HCL | 📅 2024-12-20 - Terraform best practices (1 hour)
 * :hatched\_chick: [An Introduction to Terraform](https://blog.gruntwork.io/an-introduction-to-terraform-f17df9c6d180) - How to use Terraform (1 hour)
 * :hatched\_chick: [Terraform Tutorial](https://spacelift.io/blog/terraform-tutorial) - How to get started with Terraform (1 hour)
