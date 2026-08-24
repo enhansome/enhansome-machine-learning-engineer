@@ -54,7 +54,7 @@
                 "last_commit": "2026-01-13T19:49:12Z",
                 "owner": "satwikkansal",
                 "repo": "wtfpython",
-                "stars": 37057
+                "stars": 37058
               }
             },
             {
@@ -105,10 +105,10 @@
                     "archived": false,
                     "id": 123303402,
                     "language": "Python",
-                    "last_commit": "2026-08-17T22:01:20Z",
+                    "last_commit": "2026-08-23T20:01:37Z",
                     "owner": "python-poetry",
                     "repo": "poetry",
-                    "stars": 34291
+                    "stars": 34292
                   }
                 },
                 {
@@ -123,7 +123,7 @@
                     "last_commit": "2026-04-01T17:46:44Z",
                     "owner": "cookiecutter",
                     "repo": "cookiecutter",
-                    "stars": 25062
+                    "stars": 25064
                   }
                 },
                 {
@@ -135,7 +135,7 @@
                     "archived": false,
                     "id": 106127589,
                     "language": "Python",
-                    "last_commit": "2026-08-21T02:05:40Z",
+                    "last_commit": "2026-08-24T13:28:41Z",
                     "owner": "commitizen-tools",
                     "repo": "commitizen",
                     "stars": 3498
@@ -153,7 +153,7 @@
                     "last_commit": "2026-07-12T13:04:14Z",
                     "owner": "nat-n",
                     "repo": "poethepoet",
-                    "stars": 2062
+                    "stars": 2063
                   }
                 },
                 {
@@ -205,7 +205,7 @@
                     "last_commit": "2026-08-20T13:01:16Z",
                     "owner": "psf",
                     "repo": "black",
-                    "stars": 41816
+                    "stars": 41815
                   }
                 },
                 {
@@ -217,7 +217,7 @@
                     "archived": false,
                     "id": 7053637,
                     "language": "Python",
-                    "last_commit": "2026-08-21T17:21:45Z",
+                    "last_commit": "2026-08-24T08:56:19Z",
                     "owner": "python",
                     "repo": "mypy",
                     "stars": 20599
@@ -232,10 +232,10 @@
                     "archived": false,
                     "id": 131129792,
                     "language": "Python",
-                    "last_commit": "2026-08-04T03:25:32Z",
+                    "last_commit": "2026-08-24T11:13:47Z",
                     "owner": "PyCQA",
                     "repo": "bandit",
-                    "stars": 8233
+                    "stars": 8236
                   }
                 },
                 {
@@ -250,7 +250,7 @@
                     "last_commit": "2026-08-18T20:50:04Z",
                     "owner": "PyCQA",
                     "repo": "isort",
-                    "stars": 6947
+                    "stars": 6948
                   }
                 },
                 {
@@ -295,7 +295,7 @@
                     "last_commit": "2026-08-17T23:41:40Z",
                     "owner": "PyCQA",
                     "repo": "flake8",
-                    "stars": 3816
+                    "stars": 3817
                   }
                 },
                 {
@@ -307,7 +307,7 @@
                     "archived": false,
                     "id": 138421996,
                     "language": "Python",
-                    "last_commit": "2026-08-23T15:47:09Z",
+                    "last_commit": "2026-08-23T22:55:50Z",
                     "owner": "coveragepy",
                     "repo": "coveragepy",
                     "stars": 3406
@@ -437,7 +437,7 @@
                     "last_commit": "2026-08-19T08:58:11Z",
                     "owner": "fastapi",
                     "repo": "fastapi",
-                    "stars": 101789
+                    "stars": 101814
                   }
                 },
                 {
@@ -449,10 +449,10 @@
                     "archived": false,
                     "id": 204086862,
                     "language": "Python",
-                    "last_commit": "2026-08-23T18:10:10Z",
+                    "last_commit": "2026-08-24T14:11:02Z",
                     "owner": "streamlit",
                     "repo": "streamlit",
-                    "stars": 45599
+                    "stars": 45602
                   }
                 },
                 {
@@ -467,7 +467,7 @@
                     "last_commit": "2026-08-12T07:20:14Z",
                     "owner": "fastapi",
                     "repo": "typer",
-                    "stars": 19915
+                    "stars": 19917
                   }
                 }
               ],
@@ -489,7 +489,7 @@
                     "last_commit": "2026-08-17T21:24:27Z",
                     "owner": "tqdm",
                     "repo": "tqdm",
-                    "stars": 31286
+                    "stars": 31288
                   }
                 },
                 {
@@ -504,7 +504,7 @@
                     "last_commit": "2025-10-20T13:17:06Z",
                     "owner": "mkdocs",
                     "repo": "mkdocs",
-                    "stars": 22367
+                    "stars": 22369
                   }
                 },
                 {
@@ -519,7 +519,7 @@
                     "last_commit": "2026-08-18T13:43:55Z",
                     "owner": "gaogaotiantian",
                     "repo": "viztracer",
-                    "stars": 7723
+                    "stars": 7724
                   }
                 },
                 {
@@ -632,6 +632,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":snake: SHAP: SHapley Additive exPlanations",
+              "description": "How to explain a model's output with Shapley values (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74505259,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-11T21:52:04Z",
+                "owner": "shap",
+                "repo": "shap",
+                "stars": 25699
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Explainability"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":snake: UMAP: Uniform Manifold Approximation and Projection",
               "description": "How to reduce dimensionality for visualization and modelling (30 min)",
               "children": [],
@@ -669,6 +691,116 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":snake: Microsoft's Document Image Transformer",
+              "description": "A self-supervised pre-trained model that achieves SotA performance on PubLayNet and can be used for various downstream tasks (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198350484,
+                "language": "Python",
+                "last_commit": "2026-01-23T04:09:35Z",
+                "owner": "microsoft",
+                "repo": "unilm",
+                "stars": 22195
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Computer Vision"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":snake: Awesome Sentence Embedding",
+              "description": "A curated list of pretrained sentence and word embedding models (15 min)",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 161199191,
+                "language": "Python",
+                "last_commit": "2021-04-23T09:28:48Z",
+                "owner": "Separius",
+                "repo": "awesome-sentence-embedding",
+                "stars": 2288
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Natural Language Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":snake: Darts - Time Series Made Easy in Python",
+              "description": "How to build forecasting models with (1 hour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 148657183,
+                "language": "Python",
+                "last_commit": "2026-08-21T08:30:55Z",
+                "owner": "unit8co",
+                "repo": "darts",
+                "stars": 9504
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Time Series Analysis"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":snake: Microsoft Recommenders",
+              "description": "A comparison of recommender system models (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 149430917,
+                "language": "Python",
+                "last_commit": "2026-08-20T16:19:43Z",
+                "owner": "recommenders-team",
+                "repo": "recommenders",
+                "stars": 21867
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Recommender Systems"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":snake: Awesome Pandas",
+              "description": "An awesome list of Pandas resources (1 hour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115751788,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-06-04T09:59:18Z",
+                "owner": "tommyod",
+                "repo": "awesome-pandas",
+                "stars": 573
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pandas"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": ":snake: CVAT: Computer Vision Annotation Tool",
               "description": "A tool for labelling images (30 min)",
               "children": [],
@@ -676,10 +808,10 @@
                 "archived": false,
                 "id": 139156354,
                 "language": "Python",
-                "last_commit": "2026-08-23T18:49:25Z",
+                "last_commit": "2026-08-24T14:12:33Z",
                 "owner": "cvat-ai",
                 "repo": "cvat",
-                "stars": 16578
+                "stars": 16586
               }
             },
             {
@@ -694,7 +826,7 @@
                 "last_commit": "2026-04-14T21:16:25Z",
                 "owner": "doccano",
                 "repo": "doccano",
-                "stars": 10754
+                "stars": 10757
               }
             },
             {
@@ -709,7 +841,7 @@
                 "last_commit": "2024-06-17T06:18:41Z",
                 "owner": "HumanSignal",
                 "repo": "awesome-data-labeling",
-                "stars": 4402
+                "stars": 4404
               }
             }
           ],
@@ -737,7 +869,7 @@
                 "last_commit": "2026-04-07T15:39:24Z",
                 "owner": "pyinvoke",
                 "repo": "invoke",
-                "stars": 4767
+                "stars": 4768
               }
             },
             {
@@ -752,13 +884,79 @@
                 "last_commit": "2026-07-12T13:04:14Z",
                 "owner": "nat-n",
                 "repo": "poethepoet",
-                "stars": 2062
+                "stars": 2063
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "CI/CD"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":unicorn: Awesome Docker",
+              "description": "An awesome list of Docker resources (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24297122,
+                "language": null,
+                "last_commit": "2026-08-19T15:33:40Z",
+                "owner": "veggiemonk",
+                "repo": "awesome-docker",
+                "stars": 36701
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Docker"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":snake: Great Expectations",
+              "description": "How to test and document your data and data pipelines (30 min)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 103071520,
+                "language": "Python",
+                "last_commit": "2026-08-21T14:43:46Z",
+                "owner": "fivetran",
+                "repo": "great_expectations",
+                "stars": 11732
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Data pipelines"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":snake: Safe ways to do things in bash",
+              "description": "How to write safe and robust shell scripts (1 hour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 79505000,
+                "language": "Rust",
+                "last_commit": "2026-07-09T22:28:20Z",
+                "owner": "anordal",
+                "repo": "shellharden",
+                "stars": 4798
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Shell"
         },
         {
           "children": [
@@ -774,7 +972,7 @@
                 "last_commit": "2026-07-27T07:32:27Z",
                 "owner": "shuaibiyy",
                 "repo": "awesome-tf",
-                "stars": 6580
+                "stars": 6581
               }
             },
             {
@@ -804,20 +1002,42 @@
                 "last_commit": "2024-12-20T00:40:37Z",
                 "owner": "ozbillwang",
                 "repo": "terraform-best-practices",
-                "stars": 1841
+                "stars": 1840
               }
             }
           ],
           "description": null,
           "node_type": "group",
           "title": "Terraform"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": ":unicorn: Kafka Exactly-Once-Semantics",
+              "description": "How to produce and consume messages exactly once (1 hour)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56217288,
+                "language": "Python",
+                "last_commit": "2026-08-24T13:36:41Z",
+                "owner": "confluentinc",
+                "repo": "confluent-kafka-python",
+                "stars": 504
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Infrastructure"
         }
       ],
       "title": "DevOps"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T19:33:07.964Z",
+    "last_updated": "2026-08-24T14:28:46.465Z",
     "original_repository": "superlinear-ai/awesome-machine-learning-engineer",
     "original_repository_id": 128728767,
     "original_repository_sha": "63428e065d128b0461120979a439fee9d65b7a39",
