@@ -12,12 +12,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "🌱 Substrate is a modern Copier template for scaffolding Python packages and apps",
+                "homepage": null,
                 "id": 444870763,
                 "language": "Jinja",
+                "license": "MIT",
                 "last_commit": "2026-08-19T10:03:29Z",
+                "open_issues": 16,
                 "owner": "superlinear-ai",
                 "repo": "substrate",
-                "stars": 374
+                "stars": 374,
+                "topics": [
+                  "copier-template",
+                  "devcontainer",
+                  "project-template",
+                  "python",
+                  "ruff",
+                  "scaffolding",
+                  "template",
+                  "ty",
+                  "uv"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             },
@@ -28,12 +43,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Poetry workspace plugin for Python monorepos.",
+                "homepage": null,
                 "id": 394421610,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2023-05-04T10:26:07Z",
+                "open_issues": 5,
                 "owner": "jacksmith15",
                 "repo": "poetry-workspace-plugin",
-                "stars": 86
+                "stars": 86,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -51,12 +71,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "What the f*ck Python? 😱",
+                "homepage": null,
                 "id": 101684374,
                 "language": "Python",
+                "license": "WTFPL",
                 "last_commit": "2026-01-13T19:49:12Z",
+                "open_issues": 72,
                 "owner": "satwikkansal",
                 "repo": "wtfpython",
-                "stars": 37068
+                "stars": 37069,
+                "topics": [
+                  "documentation",
+                  "gotchas",
+                  "interview-questions",
+                  "pitfalls",
+                  "python",
+                  "python-interview-questions",
+                  "snippets",
+                  "wats",
+                  "wtf"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             },
@@ -67,12 +102,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python module for decorators, wrappers and monkey patching.",
+                "homepage": null,
                 "id": 10357291,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-21T03:00:46Z",
+                "open_issues": 0,
                 "owner": "GrahamDumpleton",
                 "repo": "wrapt",
-                "stars": 2295
+                "stars": 2295,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             },
@@ -83,12 +123,22 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code Sample of Book \"Effective Python: 59 Specific Ways to Write Better Pyton\" by Brett Slatkin",
+                "homepage": null,
                 "id": 81207058,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2023-06-13T19:03:29Z",
+                "open_issues": 25,
                 "owner": "SigmaQuan",
                 "repo": "Better-Python-59-Ways",
-                "stars": 1383
+                "stars": 1383,
+                "topics": [
+                  "effective-python",
+                  "python",
+                  "python-3",
+                  "tricks"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -108,12 +158,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Python packaging and dependency management made easy",
+                    "homepage": "https://python-poetry.org",
                     "id": 123303402,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T21:33:54Z",
+                    "open_issues": 566,
                     "owner": "python-poetry",
                     "repo": "poetry",
-                    "stars": 34298
+                    "stars": 34298,
+                    "topics": [
+                      "dependency-manager",
+                      "package-manager",
+                      "packaging",
+                      "poetry",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -124,12 +185,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.",
+                    "homepage": "https://pypi.org/project/cookiecutter/",
                     "id": 11407242,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-04-01T17:46:44Z",
+                    "open_issues": 312,
                     "owner": "cookiecutter",
                     "repo": "cookiecutter",
-                    "stars": 25066
+                    "stars": 25066,
+                    "topics": [
+                      "cookiecutter",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -140,12 +209,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder: ",
+                    "homepage": "https://commitizen-tools.github.io/commitizen/",
                     "id": 106127589,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T13:10:05Z",
+                    "open_issues": 163,
                     "owner": "commitizen-tools",
                     "repo": "commitizen",
-                    "stars": 3498
+                    "stars": 3497,
+                    "topics": [
+                      "bump-version",
+                      "changelog-generator",
+                      "commitizen",
+                      "conventional-commits",
+                      "git",
+                      "python",
+                      "python3",
+                      "release-automation",
+                      "semantic-versioning",
+                      "semver"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -156,12 +241,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A task runner that works well with poetry or uv.",
+                    "homepage": "https://poethepoet.natn.io/",
                     "id": 267704930,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-12T13:04:14Z",
+                    "open_issues": 13,
                     "owner": "nat-n",
                     "repo": "poethepoet",
-                    "stars": 2064
+                    "stars": 2064,
+                    "topics": [
+                      "developer-experience",
+                      "developer-tools",
+                      "development-workflow",
+                      "dx",
+                      "poetry",
+                      "poetry-plugin",
+                      "python",
+                      "task-runner",
+                      "uv"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -172,12 +272,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Allows you to maintain all the necessary cruft for packaging and building projects separate from the code you intentionally write. Built on-top of, and fully compatible with, CookieCutter.",
+                    "homepage": "https://cruft.github.io/cruft/",
                     "id": 210093619,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-12-25T14:07:35Z",
+                    "open_issues": 94,
                     "owner": "cruft",
                     "repo": "cruft",
-                    "stars": 1586
+                    "stars": 1586,
+                    "topics": [
+                      "boilerplate",
+                      "cookiecutter",
+                      "cruft",
+                      "instantly",
+                      "python",
+                      "python3",
+                      "quickly",
+                      "templating"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -188,12 +302,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Poetry workspace plugin for Python monorepos.",
+                    "homepage": null,
                     "id": 394421610,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-05-04T10:26:07Z",
+                    "open_issues": 5,
                     "owner": "jacksmith15",
                     "repo": "poetry-workspace-plugin",
-                    "stars": 86
+                    "stars": 86,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 }
@@ -211,12 +330,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The uncompromising Python code formatter",
+                    "homepage": "https://black.readthedocs.io/en/stable/",
                     "id": 125266328,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T13:01:16Z",
+                    "open_issues": 303,
                     "owner": "psf",
                     "repo": "black",
-                    "stars": 41820
+                    "stars": 41820,
+                    "topics": [
+                      "autopep8",
+                      "code",
+                      "codeformatter",
+                      "formatter",
+                      "gofmt",
+                      "hacktoberfest",
+                      "pre-commit-hook",
+                      "python",
+                      "yapf"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -227,12 +361,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Optional static typing for Python",
+                    "homepage": "https://www.mypy-lang.org/",
                     "id": 7053637,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-28T01:13:53Z",
+                    "open_issues": 3212,
                     "owner": "python",
                     "repo": "mypy",
-                    "stars": 20615
+                    "stars": 20615,
+                    "topics": [
+                      "linter",
+                      "python",
+                      "typechecker",
+                      "types",
+                      "typing"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -243,12 +388,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Bandit is a tool designed to find common security issues in Python code.",
+                    "homepage": "https://bandit.readthedocs.io",
                     "id": 131129792,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-24T11:13:47Z",
+                    "open_issues": 260,
                     "owner": "PyCQA",
                     "repo": "bandit",
-                    "stars": 8245
+                    "stars": 8246,
+                    "topics": [
+                      "bandit",
+                      "linter",
+                      "python",
+                      "security",
+                      "security-scanner",
+                      "security-tools",
+                      "static-code-analysis"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -259,12 +417,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Python utility / library to sort imports.",
+                    "homepage": "https://isort.readthedocs.io/",
                     "id": 12550138,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-27T20:30:57Z",
+                    "open_issues": 82,
                     "owner": "PyCQA",
                     "repo": "isort",
-                    "stars": 6948
+                    "stars": 6949,
+                    "topics": [
+                      "auto-formatter",
+                      "cleaner",
+                      "cli",
+                      "formatter",
+                      "hacktoberfest",
+                      "isort",
+                      "linter",
+                      "python",
+                      "python-utility",
+                      "python3",
+                      "sorting-imports"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -275,12 +450,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Some out-of-the-box hooks for pre-commit",
+                    "homepage": null,
                     "id": 17714713,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T23:37:42Z",
+                    "open_issues": 6,
                     "owner": "pre-commit",
                     "repo": "pre-commit-hooks",
-                    "stars": 6674
+                    "stars": 6674,
+                    "topics": [
+                      "git",
+                      "linter",
+                      "pre-commit",
+                      "python",
+                      "refactoring"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -291,12 +477,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A tool (and pre-commit hook) to automatically upgrade syntax for newer versions of the language.",
+                    "homepage": null,
                     "id": 83462592,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-25T19:30:18Z",
+                    "open_issues": 22,
                     "owner": "asottile",
                     "repo": "pyupgrade",
-                    "stars": 4112
+                    "stars": 4112,
+                    "topics": [
+                      "linter",
+                      "pre-commit",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -307,12 +502,30 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "flake8 is a python tool that glues together pycodestyle, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code.",
+                    "homepage": "https://flake8.pycqa.org",
                     "id": 24000265,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-17T23:41:40Z",
+                    "open_issues": 23,
                     "owner": "PyCQA",
                     "repo": "flake8",
-                    "stars": 3822
+                    "stars": 3822,
+                    "topics": [
+                      "complexity-analysis",
+                      "flake8",
+                      "linter",
+                      "linter-flake8",
+                      "pep8",
+                      "python",
+                      "python3",
+                      "static-analysis",
+                      "static-code-analysis",
+                      "style-guide",
+                      "styleguide",
+                      "stylelint"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -323,12 +536,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The code coverage tool for Python",
+                    "homepage": "https://coverage.readthedocs.io",
                     "id": 138421996,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-28T22:07:22Z",
+                    "open_issues": 307,
                     "owner": "coveragepy",
                     "repo": "coveragepy",
-                    "stars": 3406
+                    "stars": 3406,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -339,12 +557,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Safety checks Python dependencies for known security vulnerabilities and suggests the proper remediations for vulnerabilities detected.",
+                    "homepage": "https://safetycli.com/product/safety-cli",
                     "id": 71359600,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-08-28T21:42:48Z",
+                    "open_issues": 93,
                     "owner": "pyupio",
                     "repo": "safety",
-                    "stars": 1995
+                    "stars": 1995,
+                    "topics": [
+                      "cicd",
+                      "dependency-management",
+                      "devsecops",
+                      "open-source-security",
+                      "package-management",
+                      "python",
+                      "security",
+                      "security-vulnerability",
+                      "travis",
+                      "vulnerability-detection",
+                      "vulnerability-scanners"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -355,12 +590,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":octocat: A curated awesome list of flake8 extensions. Feel free to contribute! :mortar_board:",
+                    "homepage": null,
                     "id": 156768939,
                     "language": null,
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-21T07:29:57Z",
+                    "open_issues": 1,
                     "owner": "DmytroLitvinov",
                     "repo": "awesome-flake8-extensions",
-                    "stars": 1278
+                    "stars": 1278,
+                    "topics": [
+                      "awesome",
+                      "awesome-list",
+                      "code-quality",
+                      "collections",
+                      "flake8",
+                      "flake8-extensions",
+                      "flake8-plugins",
+                      "hacktoberfest",
+                      "hacktoberfest-accepted",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -371,12 +622,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "docstring style checker",
+                    "homepage": "http://pydocstyle.org",
                     "id": 3316803,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2023-11-03T22:28:46Z",
+                    "open_issues": 121,
                     "owner": "PyCQA",
                     "repo": "pydocstyle",
-                    "stars": 1116
+                    "stars": 1116,
+                    "topics": [
+                      "docstrings",
+                      "linter",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -387,12 +647,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A pytest plugin powered by VCR.py to record and replay HTTP traffic.",
+                    "homepage": null,
                     "id": 197214988,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-20T20:37:52Z",
+                    "open_issues": 40,
                     "owner": "kiwicom",
                     "repo": "pytest-recording",
-                    "stars": 615
+                    "stars": 615,
+                    "topics": [
+                      "cassettes",
+                      "hacktoberfest",
+                      "pytest",
+                      "python",
+                      "testing",
+                      "vcr"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -403,12 +675,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A python documentation linter which checks that the docstring description matches the definition.",
+                    "homepage": null,
                     "id": 104758499,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2022-12-08T14:26:52Z",
+                    "open_issues": 68,
                     "owner": "terrencepreilly",
                     "repo": "darglint",
-                    "stars": 483
+                    "stars": 483,
+                    "topics": [
+                      "documentation-tool",
+                      "linter"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -419,12 +699,19 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A collection of fast, cheap, regex based pre-commit hooks.",
+                    "homepage": null,
                     "id": 142720128,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-17T23:37:19Z",
+                    "open_issues": 1,
                     "owner": "pre-commit",
                     "repo": "pygrep-hooks",
-                    "stars": 243
+                    "stars": 243,
+                    "topics": [
+                      "pre-commit"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -435,12 +722,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "python3/pip3 wrapper for installing shellcheck",
+                    "homepage": null,
                     "id": 219348188,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-20T18:59:21Z",
+                    "open_issues": 0,
                     "owner": "shellcheck-py",
                     "repo": "shellcheck-py",
-                    "stars": 239
+                    "stars": 239,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 }
@@ -458,12 +750,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
+                    "homepage": "https://fastapi.tiangolo.com/",
                     "id": 160919119,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-26T17:54:56Z",
+                    "open_issues": 79,
                     "owner": "fastapi",
                     "repo": "fastapi",
-                    "stars": 101912
+                    "stars": 101914,
+                    "topics": [
+                      "api",
+                      "async",
+                      "asyncio",
+                      "fastapi",
+                      "framework",
+                      "json",
+                      "json-schema",
+                      "openapi",
+                      "openapi3",
+                      "pydantic",
+                      "python",
+                      "python-types",
+                      "python3",
+                      "redoc",
+                      "rest",
+                      "starlette",
+                      "swagger",
+                      "swagger-ui",
+                      "uvicorn",
+                      "web"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -474,12 +792,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Streamlit — A faster way to build and share data apps.",
+                    "homepage": "https://streamlit.io",
                     "id": 204086862,
                     "language": "Python",
-                    "last_commit": "2026-08-29T01:39:29Z",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-08-29T04:16:36Z",
+                    "open_issues": 1182,
                     "owner": "streamlit",
                     "repo": "streamlit",
-                    "stars": 45631
+                    "stars": 45632,
+                    "topics": [
+                      "data-analysis",
+                      "data-science",
+                      "data-visualization",
+                      "deep-learning",
+                      "developer-tools",
+                      "machine-learning",
+                      "python",
+                      "streamlit"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -490,12 +822,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Typer, build great CLIs. Easy to code. Based on Python type hints.",
+                    "homepage": "https://typer.tiangolo.com/",
                     "id": 229937405,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T10:26:37Z",
+                    "open_issues": 44,
                     "owner": "fastapi",
                     "repo": "typer",
-                    "stars": 19934
+                    "stars": 19934,
+                    "topics": [
+                      "cli",
+                      "click",
+                      "python",
+                      "python3",
+                      "shell",
+                      "terminal",
+                      "typehints",
+                      "typer"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 }
@@ -513,12 +859,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": ":zap: A Fast, Extensible Progress Bar for Python and CLI",
+                    "homepage": "https://tqdm.github.io",
                     "id": 36804486,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-17T21:24:27Z",
+                    "open_issues": 605,
                     "owner": "tqdm",
                     "repo": "tqdm",
-                    "stars": 31300
+                    "stars": 31302,
+                    "topics": [
+                      "cli",
+                      "closember",
+                      "console",
+                      "discord",
+                      "gui",
+                      "jupyter",
+                      "keras",
+                      "meter",
+                      "pandas",
+                      "parallel",
+                      "progress",
+                      "progress-bar",
+                      "progressbar",
+                      "progressmeter",
+                      "python",
+                      "rate",
+                      "telegram",
+                      "terminal",
+                      "time",
+                      "utilities"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -529,12 +901,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Project documentation with Markdown.",
+                    "homepage": "https://www.mkdocs.org",
                     "id": 15830664,
                     "language": "Python",
+                    "license": "BSD-2-Clause",
                     "last_commit": "2025-10-20T13:17:06Z",
+                    "open_issues": 188,
                     "owner": "mkdocs",
                     "repo": "mkdocs",
-                    "stars": 22387
+                    "stars": 22387,
+                    "topics": [
+                      "documentation",
+                      "markdown",
+                      "mkdocs",
+                      "python",
+                      "static-site-generator"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -545,12 +928,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A debugging and profiling tool that can trace and visualize python code execution",
+                    "homepage": "https://viztracer.readthedocs.io/",
                     "id": 285134677,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-18T13:43:55Z",
+                    "open_issues": 30,
                     "owner": "gaogaotiantian",
                     "repo": "viztracer",
-                    "stars": 7724
+                    "stars": 7724,
+                    "topics": [
+                      "debugging",
+                      "flamegraph",
+                      "logging",
+                      "profiling",
+                      "python",
+                      "python3",
+                      "tracer",
+                      "visualization"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -561,12 +958,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "API Documentation for Python Projects",
+                    "homepage": "https://pdoc.dev",
                     "id": 11885132,
                     "language": "Python",
+                    "license": "MIT-0",
                     "last_commit": "2026-07-01T08:04:25Z",
+                    "open_issues": 69,
                     "owner": "mitmproxy",
                     "repo": "pdoc",
-                    "stars": 2511
+                    "stars": 2511,
+                    "topics": [
+                      "api",
+                      "api-documentation",
+                      "docs",
+                      "docstring",
+                      "docstrings",
+                      "documentation",
+                      "documentation-generator",
+                      "documentation-tool",
+                      "pdoc",
+                      "python",
+                      "python3"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -577,12 +991,24 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Graphical Python debugger which lets you easily view the values of all evaluated expressions",
+                    "homepage": "https://birdseye.readthedocs.io",
                     "id": 98051503,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2026-01-11T12:25:17Z",
+                    "open_issues": 23,
                     "owner": "alexmojaki",
                     "repo": "birdseye",
-                    "stars": 1719
+                    "stars": 1719,
+                    "topics": [
+                      "ast",
+                      "birdseye",
+                      "debugger",
+                      "debugging",
+                      "python",
+                      "python-debugger"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -593,12 +1019,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A high-level plotting API for pandas, dask, xarray, and networkx built on HoloViews",
+                    "homepage": "https://hvplot.holoviz.org",
                     "id": 125869973,
                     "language": "Python",
+                    "license": "BSD-3-Clause",
                     "last_commit": "2026-08-24T15:41:47Z",
+                    "open_issues": 397,
                     "owner": "holoviz",
                     "repo": "hvplot",
-                    "stars": 1357
+                    "stars": 1357,
+                    "topics": [
+                      "datashader",
+                      "holoviews",
+                      "holoviz",
+                      "plotting"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -609,12 +1045,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Version-bump your software with a single command",
+                    "homepage": "https://pypi.python.org/pypi/bump2version",
                     "id": 86366332,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-02-20T09:07:16Z",
+                    "open_issues": 115,
                     "owner": "c4urself",
                     "repo": "bump2version",
-                    "stars": 1115
+                    "stars": 1115,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -625,12 +1066,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Colored terminal output for Python's logging module",
+                    "homepage": "https://coloredlogs.readthedocs.io",
                     "id": 10389547,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-06-12T18:02:58Z",
+                    "open_issues": 37,
                     "owner": "xolox",
                     "repo": "python-coloredlogs",
-                    "stars": 560
+                    "stars": 560,
+                    "topics": [
+                      "ansi-colors",
+                      "cron",
+                      "html",
+                      "logging",
+                      "python",
+                      "syslog",
+                      "terminal"
+                    ]
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 },
@@ -641,12 +1095,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Scalene: a high-performance, high-precision CPU, GPU, and memory profiler for Python",
+                    "homepage": null,
                     "id": 450251543,
                     "language": "JavaScript",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-04-14T20:50:41Z",
+                    "open_issues": 0,
                     "owner": "emeryberger",
                     "repo": "scalene",
-                    "stars": 239
+                    "stars": 239,
+                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 }
@@ -675,12 +1134,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A game theoretic approach to explain the output of any machine learning model.",
+                "homepage": "https://shap.readthedocs.io",
                 "id": 74505259,
                 "language": "Jupyter Notebook",
-                "last_commit": "2026-08-28T21:30:09Z",
+                "license": "MIT",
+                "last_commit": "2026-08-29T04:35:21Z",
+                "open_issues": 1004,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25709
+                "stars": 25709,
+                "topics": [
+                  "deep-learning",
+                  "explainability",
+                  "gradient-boosting",
+                  "interpretability",
+                  "machine-learning",
+                  "shap",
+                  "shapley"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -698,12 +1170,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Uniform Manifold Approximation and Projection",
+                "homepage": "https://umap-learn.readthedocs.io",
                 "id": 95995403,
                 "language": "Python",
+                "license": "BSD-3-Clause",
                 "last_commit": "2026-08-21T10:17:06Z",
+                "open_issues": 525,
                 "owner": "lmcinnes",
                 "repo": "umap",
-                "stars": 8256
+                "stars": 8256,
+                "topics": [
+                  "dimensionality-reduction",
+                  "machine-learning",
+                  "topological-data-analysis",
+                  "umap",
+                  "visualization"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             },
@@ -714,12 +1197,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A Python nearest neighbor descent for approximate nearest neighbors",
+                "homepage": null,
                 "id": 120684701,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-08-01T22:48:17Z",
+                "open_issues": 79,
                 "owner": "lmcinnes",
                 "repo": "pynndescent",
-                "stars": 970
+                "stars": 970,
+                "topics": [
+                  "approximate-nearest-neighbor-search",
+                  "knn-graphs",
+                  "nearest-neighbor-search"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -737,12 +1229,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities",
+                "homepage": "https://aka.ms/GeneralAI",
                 "id": 198350484,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
+                "open_issues": 684,
                 "owner": "microsoft",
                 "repo": "unilm",
-                "stars": 22196
+                "stars": 22196,
+                "topics": [
+                  "beit",
+                  "beit-3",
+                  "bitnet",
+                  "deepnet",
+                  "document-ai",
+                  "foundation-models",
+                  "kosmos",
+                  "kosmos-1",
+                  "layoutlm",
+                  "layoutxlm",
+                  "llm",
+                  "minilm",
+                  "mllm",
+                  "multimodal",
+                  "nlp",
+                  "pre-trained-model",
+                  "textdiffuser",
+                  "trocr",
+                  "unilm",
+                  "xlm-e"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -760,12 +1278,36 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": " A curated list of pretrained sentence and word embedding models",
+                "homepage": null,
                 "id": 161199191,
                 "language": "Python",
+                "license": "GPL-3.0",
                 "last_commit": "2021-04-23T09:28:48Z",
+                "open_issues": 1,
                 "owner": "Separius",
                 "repo": "awesome-sentence-embedding",
-                "stars": 2290
+                "stars": 2290,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "bert",
+                  "contextualized-representation",
+                  "cross-lingual",
+                  "embedding-models",
+                  "language-model",
+                  "natural-language",
+                  "nlp",
+                  "pretrained-embedding",
+                  "pretrained-language-model",
+                  "pretrained-models",
+                  "sentence-embeddings",
+                  "sentence-representations",
+                  "subword-models",
+                  "unsupervised-learning",
+                  "word-embeddings",
+                  "wordembedding"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -783,12 +1325,25 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A python library for user-friendly forecasting and anomaly detection on time series.",
+                "homepage": "https://unit8co.github.io/darts/",
                 "id": 148657183,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-21T08:30:55Z",
+                "open_issues": 229,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9510
+                "stars": 9510,
+                "topics": [
+                  "anomaly-detection",
+                  "data-science",
+                  "deep-learning",
+                  "forecasting",
+                  "machine-learning",
+                  "python",
+                  "time-series"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -806,12 +1361,35 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Best Practices on Recommendation Systems",
+                "homepage": "https://recommenders-team.github.io/recommenders/intro.html",
                 "id": 149430917,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-25T20:44:59Z",
+                "open_issues": 176,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21862
+                "stars": 21862,
+                "topics": [
+                  "ai",
+                  "artificial-intelligence",
+                  "data-science",
+                  "deep-learning",
+                  "jupyter-notebook",
+                  "kubernetes",
+                  "machine-learning",
+                  "operationalization",
+                  "python",
+                  "ranking",
+                  "rating",
+                  "recommendation",
+                  "recommendation-algorithm",
+                  "recommendation-engine",
+                  "recommendation-system",
+                  "recommender",
+                  "tutorial"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -829,12 +1407,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A collection of resources for pandas (Python) and related subjects.",
+                "homepage": null,
                 "id": 115751788,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2026-06-04T09:59:18Z",
+                "open_issues": 1,
                 "owner": "tommyod",
                 "repo": "awesome-pandas",
-                "stars": 573
+                "stars": 573,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -852,12 +1435,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Computer Vision Annotation Tool (CVAT) is a leading platform for building high-quality visual datasets for vision AI. It offers open-source, cloud, and enterprise products, as well as labeling services, for image, video, and 3D annotation with AI-assisted labeling, quality assurance, team collaboration, analytics, and developer APIs.",
+                "homepage": "https://www.cvat.ai",
                 "id": 139156354,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-08-28T15:42:26Z",
+                "open_issues": 595,
                 "owner": "cvat-ai",
                 "repo": "cvat",
-                "stars": 16615
+                "stars": 16615,
+                "topics": [
+                  "annotation",
+                  "annotation-tool",
+                  "annotations",
+                  "boundingbox",
+                  "computer-vision",
+                  "computer-vision-annotation",
+                  "dataset",
+                  "deep-learning",
+                  "image-annotation",
+                  "image-classification",
+                  "image-labeling",
+                  "image-labelling-tool",
+                  "imagenet",
+                  "labeling",
+                  "labeling-tool",
+                  "object-detection",
+                  "pytorch",
+                  "semantic-segmentation",
+                  "tensorflow",
+                  "video-annotation"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             },
@@ -868,12 +1477,30 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Open source annotation tool for machine learning practitioners.",
+                "homepage": null,
                 "id": 132709824,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-04-14T21:16:25Z",
+                "open_issues": 398,
                 "owner": "doccano",
                 "repo": "doccano",
-                "stars": 10760
+                "stars": 10760,
+                "topics": [
+                  "annotation-tool",
+                  "data-labeling",
+                  "dataset",
+                  "datasets",
+                  "machine-learning",
+                  "natural-language-processing",
+                  "nuxt",
+                  "nuxtjs",
+                  "python",
+                  "text-annotation",
+                  "vue",
+                  "vuejs"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             },
@@ -884,12 +1511,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A curated list of awesome data labeling tools",
+                "homepage": null,
                 "id": 192640905,
                 "language": null,
+                "license": null,
                 "last_commit": "2024-06-17T06:18:41Z",
+                "open_issues": 57,
                 "owner": "HumanSignal",
                 "repo": "awesome-data-labeling",
-                "stars": 4408
+                "stars": 4408,
+                "topics": [
+                  "3d-annotation",
+                  "annotation",
+                  "annotation-tool",
+                  "audio-annotation",
+                  "audio-annotation-tool",
+                  "awesome",
+                  "awesome-list",
+                  "bounding-box",
+                  "data-labeling",
+                  "deep-learning",
+                  "image-annotation",
+                  "image-labeling",
+                  "image-labeling-tool",
+                  "label-images",
+                  "label-videos",
+                  "labeling",
+                  "labeling-tool",
+                  "lidar",
+                  "semantic-segmentation",
+                  "video-annotation"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -913,12 +1566,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Pythonic task management & command execution.",
+                "homepage": "http://pyinvoke.org",
                 "id": 3587206,
                 "language": "Python",
+                "license": "BSD-2-Clause",
                 "last_commit": "2026-04-07T15:39:24Z",
+                "open_issues": 460,
                 "owner": "pyinvoke",
                 "repo": "invoke",
-                "stars": 4769
+                "stars": 4769,
+                "topics": []
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             },
@@ -929,12 +1587,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A task runner that works well with poetry or uv.",
+                "homepage": "https://poethepoet.natn.io/",
                 "id": 267704930,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2026-07-12T13:04:14Z",
+                "open_issues": 13,
                 "owner": "nat-n",
                 "repo": "poethepoet",
-                "stars": 2064
+                "stars": 2064,
+                "topics": [
+                  "developer-experience",
+                  "developer-tools",
+                  "development-workflow",
+                  "dx",
+                  "poetry",
+                  "poetry-plugin",
+                  "python",
+                  "task-runner",
+                  "uv"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -952,12 +1625,36 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": ":whale: A curated list of Docker resources and projects",
+                "homepage": "https://average.joe.dev/awesome-docker/",
                 "id": 24297122,
                 "language": null,
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-27T17:04:16Z",
+                "open_issues": 25,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36736
+                "stars": 36736,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "container",
+                  "docker",
+                  "docker-api",
+                  "docker-container",
+                  "docker-deployment",
+                  "docker-environment",
+                  "docker-image",
+                  "docker-machine",
+                  "docker-monitoring",
+                  "docker-registry",
+                  "docker-security",
+                  "docker-swarm",
+                  "dockerfile",
+                  "list",
+                  "moby",
+                  "tools"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -975,12 +1672,38 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Always know what to expect from your data.",
+                "homepage": "https://docs.greatexpectations.io/",
                 "id": 103071520,
                 "language": "Python",
+                "license": "Apache-2.0",
                 "last_commit": "2026-08-28T17:08:33Z",
+                "open_issues": 31,
                 "owner": "fivetran",
                 "repo": "great_expectations",
-                "stars": 11745
+                "stars": 11745,
+                "topics": [
+                  "cleandata",
+                  "data-engineering",
+                  "data-profilers",
+                  "data-profiling",
+                  "data-quality",
+                  "data-science",
+                  "data-unit-tests",
+                  "datacleaner",
+                  "datacleaning",
+                  "dataquality",
+                  "dataunittest",
+                  "eda",
+                  "exploratory-analysis",
+                  "exploratory-data-analysis",
+                  "exploratorydataanalysis",
+                  "mlops",
+                  "pipeline",
+                  "pipeline-debt",
+                  "pipeline-testing",
+                  "pipeline-tests"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -998,12 +1721,21 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "The corrective bash syntax highlighter",
+                "homepage": null,
                 "id": 79505000,
                 "language": "Rust",
+                "license": "MPL-2.0",
                 "last_commit": "2026-07-09T22:28:20Z",
+                "open_issues": 10,
                 "owner": "anordal",
                 "repo": "shellharden",
-                "stars": 4799
+                "stars": 4799,
+                "topics": [
+                  "lint",
+                  "policy",
+                  "syntax-highlighter"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -1021,12 +1753,26 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Curated list of resources on HashiCorp's Terraform and OpenTofu",
+                "homepage": null,
                 "id": 58478671,
                 "language": null,
+                "license": "CC0-1.0",
                 "last_commit": "2026-08-25T07:24:42Z",
+                "open_issues": 10,
                 "owner": "shuaibiyy",
                 "repo": "awesome-tf",
-                "stars": 6582
+                "stars": 6582,
+                "topics": [
+                  "awesome",
+                  "awesome-list",
+                  "devops",
+                  "hashicorp-terraform",
+                  "infrastructure-as-code",
+                  "opentofu",
+                  "terraform",
+                  "terraform-modules"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             },
@@ -1037,12 +1783,27 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "pre-commit git hooks to take care of Terraform configurations 🇺🇦",
+                "homepage": null,
                 "id": 69382485,
                 "language": "Shell",
+                "license": "MIT",
                 "last_commit": "2026-08-26T17:55:03Z",
+                "open_issues": 26,
                 "owner": "antonbabenko",
                 "repo": "pre-commit-terraform",
-                "stars": 3762
+                "stars": 3762,
+                "topics": [
+                  "automation",
+                  "code-style",
+                  "git-hooks",
+                  "hacktoberfest",
+                  "hooks",
+                  "pre-commit",
+                  "terraform",
+                  "terraform-docs",
+                  "terragrunt"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             },
@@ -1053,12 +1814,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Terraform Best Practices for AWS users",
+                "homepage": null,
                 "id": 94737529,
                 "language": "HCL",
+                "license": null,
                 "last_commit": "2024-12-20T00:40:37Z",
+                "open_issues": 2,
                 "owner": "ozbillwang",
                 "repo": "terraform-best-practices",
-                "stars": 1840
+                "stars": 1840,
+                "topics": [
+                  "best-practices",
+                  "best-practises",
+                  "hashicorp",
+                  "infrastructure-as-code",
+                  "terraform"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -1076,12 +1848,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Confluent's Kafka Python Client",
+                "homepage": "http://docs.confluent.io/current/clients/confluent-kafka-python",
                 "id": 56217288,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-08-28T19:54:24Z",
+                "open_issues": 216,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-python",
-                "stars": 504
+                "stars": 504,
+                "topics": [
+                  "confluent",
+                  "kafka-client",
+                  "kafka-protocol",
+                  "librdkafka",
+                  "python-client"
+                ]
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
             }
@@ -1095,15 +1878,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T02:10:18.027Z",
+    "last_updated": "2026-08-29T04:48:24.769Z",
     "original_repository_info": {
       "archived": false,
+      "description": "🤓 A curated awesome list of Machine Learning Engineering resources. Feel free to contribute!",
+      "homepage": "https://radix.ai",
       "id": 128728767,
       "language": null,
+      "license": null,
       "last_commit": "2024-10-29T23:04:18Z",
+      "open_issues": 0,
       "owner": "superlinear-ai",
       "repo": "awesome-machine-learning-engineer",
-      "stars": 302
+      "stars": 302,
+      "topics": [
+        "artificial-intelligence",
+        "awesome-list",
+        "full-stack",
+        "machine-learning",
+        "machinelearning",
+        "python"
+      ]
     },
     "original_repository_sha": "63428e065d128b0461120979a439fee9d65b7a39",
     "enhanced_repository": "enhansome/enhansome-machine-learning-engineer",
