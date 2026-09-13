@@ -80,7 +80,7 @@
                 "open_issues": 72,
                 "owner": "satwikkansal",
                 "repo": "wtfpython",
-                "stars": 37080,
+                "stars": 37078,
                 "topics": [
                   "documentation",
                   "gotchas",
@@ -111,7 +111,7 @@
                 "open_issues": 1,
                 "owner": "GrahamDumpleton",
                 "repo": "wrapt",
-                "stars": 2305,
+                "stars": 2304,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
@@ -167,7 +167,7 @@
                     "open_issues": 568,
                     "owner": "python-poetry",
                     "repo": "poetry",
-                    "stars": 34298,
+                    "stars": 34301,
                     "topics": [
                       "dependency-manager",
                       "package-manager",
@@ -194,7 +194,7 @@
                     "open_issues": 311,
                     "owner": "cookiecutter",
                     "repo": "cookiecutter",
-                    "stars": 25087,
+                    "stars": 25089,
                     "topics": [
                       "cookiecutter",
                       "python"
@@ -218,7 +218,7 @@
                     "open_issues": 164,
                     "owner": "commitizen-tools",
                     "repo": "commitizen",
-                    "stars": 3507,
+                    "stars": 3509,
                     "topics": [
                       "bump-version",
                       "changelog-generator",
@@ -281,7 +281,7 @@
                     "open_issues": 94,
                     "owner": "cruft",
                     "repo": "cruft",
-                    "stars": 1586,
+                    "stars": 1587,
                     "topics": [
                       "boilerplate",
                       "cookiecutter",
@@ -336,10 +336,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-11T06:32:31Z",
-                    "open_issues": 313,
+                    "open_issues": 318,
                     "owner": "psf",
                     "repo": "black",
-                    "stars": 41840,
+                    "stars": 41844,
                     "topics": [
                       "autopep8",
                       "code",
@@ -366,8 +366,8 @@
                     "id": 7053637,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-09-11T11:05:20Z",
-                    "open_issues": 3238,
+                    "last_commit": "2026-09-13T19:34:12Z",
+                    "open_issues": 3236,
                     "owner": "python",
                     "repo": "mypy",
                     "stars": 20638,
@@ -541,11 +541,11 @@
                     "id": 138421996,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-07T23:29:24Z",
+                    "last_commit": "2026-09-13T19:28:03Z",
                     "open_issues": 306,
                     "owner": "coveragepy",
                     "repo": "coveragepy",
-                    "stars": 3411,
+                    "stars": 3412,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
@@ -599,7 +599,7 @@
                     "open_issues": 1,
                     "owner": "DmytroLitvinov",
                     "repo": "awesome-flake8-extensions",
-                    "stars": 1280,
+                    "stars": 1281,
                     "topics": [
                       "awesome",
                       "awesome-list",
@@ -759,7 +759,7 @@
                     "open_issues": 82,
                     "owner": "fastapi",
                     "repo": "fastapi",
-                    "stars": 102289,
+                    "stars": 102309,
                     "topics": [
                       "api",
                       "async",
@@ -797,11 +797,11 @@
                     "id": 204086862,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-09-12T13:18:16Z",
-                    "open_issues": 1163,
+                    "last_commit": "2026-09-13T17:29:47Z",
+                    "open_issues": 1164,
                     "owner": "streamlit",
                     "repo": "streamlit",
-                    "stars": 45736,
+                    "stars": 45740,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -831,7 +831,7 @@
                     "open_issues": 45,
                     "owner": "fastapi",
                     "repo": "typer",
-                    "stars": 19973,
+                    "stars": 19977,
                     "topics": [
                       "cli",
                       "click",
@@ -868,7 +868,7 @@
                     "open_issues": 622,
                     "owner": "tqdm",
                     "repo": "tqdm",
-                    "stars": 31333,
+                    "stars": 31337,
                     "topics": [
                       "cli",
                       "closember",
@@ -910,7 +910,7 @@
                     "open_issues": 189,
                     "owner": "mkdocs",
                     "repo": "mkdocs",
-                    "stars": 22430,
+                    "stars": 22432,
                     "topics": [
                       "documentation",
                       "markdown",
@@ -1024,7 +1024,7 @@
                     "id": 125869973,
                     "language": "Python",
                     "license": "BSD-3-Clause",
-                    "last_commit": "2026-09-07T07:31:46Z",
+                    "last_commit": "2026-09-13T03:24:29Z",
                     "open_issues": 400,
                     "owner": "holoviz",
                     "repo": "hvplot",
@@ -1054,7 +1054,7 @@
                     "open_issues": 115,
                     "owner": "c4urself",
                     "repo": "bump2version",
-                    "stars": 1115,
+                    "stars": 1116,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
@@ -1139,11 +1139,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-09-07T22:47:27Z",
-                "open_issues": 983,
+                "last_commit": "2026-09-13T15:30:45Z",
+                "open_issues": 989,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25742,
+                "stars": 25750,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1175,8 +1175,8 @@
                 "id": 95995403,
                 "language": "Python",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-09-05T05:22:37Z",
-                "open_issues": 526,
+                "last_commit": "2026-09-13T15:56:29Z",
+                "open_issues": 525,
                 "owner": "lmcinnes",
                 "repo": "umap",
                 "stars": 8257,
@@ -1235,7 +1235,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-08-26T08:16:01Z",
-                "open_issues": 685,
+                "open_issues": 686,
                 "owner": "microsoft",
                 "repo": "unilm",
                 "stars": 22213,
@@ -1334,7 +1334,7 @@
                 "open_issues": 231,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9517,
+                "stars": 9518,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -1370,7 +1370,7 @@
                 "open_issues": 181,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21884,
+                "stars": 21885,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1441,10 +1441,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-12T16:56:05Z",
-                "open_issues": 593,
+                "open_issues": 594,
                 "owner": "cvat-ai",
                 "repo": "cvat",
-                "stars": 16691,
+                "stars": 16698,
                 "topics": [
                   "annotation",
                   "annotation-tool",
@@ -1631,10 +1631,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-09-12T10:37:31Z",
-                "open_issues": 31,
+                "open_issues": 32,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36811,
+                "stars": 36817,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1681,7 +1681,7 @@
                 "open_issues": 37,
                 "owner": "fivetran",
                 "repo": "great_expectations",
-                "stars": 11785,
+                "stars": 11787,
                 "topics": [
                   "cleandata",
                   "data-engineering",
@@ -1853,7 +1853,7 @@
                 "id": 56217288,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-09-12T06:56:47Z",
+                "last_commit": "2026-09-13T14:20:33Z",
                 "open_issues": 221,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-python",
@@ -1878,7 +1878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T21:25:48.336Z",
+    "last_updated": "2026-09-13T21:25:28.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤓 A curated awesome list of Machine Learning Engineering resources. Feel free to contribute!",
