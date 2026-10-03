@@ -111,7 +111,7 @@
                 "open_issues": 0,
                 "owner": "GrahamDumpleton",
                 "repo": "wrapt",
-                "stars": 2311,
+                "stars": 2310,
                 "topics": []
               },
               "first_seen": "2026-08-29T02:10:18.027Z"
@@ -194,7 +194,7 @@
                     "open_issues": 322,
                     "owner": "cookiecutter",
                     "repo": "cookiecutter",
-                    "stars": 25122,
+                    "stars": 25124,
                     "topics": [
                       "cookiecutter",
                       "python"
@@ -336,10 +336,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-01T15:55:28Z",
-                    "open_issues": 298,
+                    "open_issues": 299,
                     "owner": "psf",
                     "repo": "black",
-                    "stars": 41859,
+                    "stars": 41860,
                     "topics": [
                       "autopep8",
                       "code",
@@ -397,7 +397,7 @@
                     "open_issues": 260,
                     "owner": "PyCQA",
                     "repo": "bandit",
-                    "stars": 8289,
+                    "stars": 8290,
                     "topics": [
                       "bandit",
                       "linter",
@@ -423,7 +423,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-01T20:49:28Z",
-                    "open_issues": 93,
+                    "open_issues": 94,
                     "owner": "PyCQA",
                     "repo": "isort",
                     "stars": 6960,
@@ -511,7 +511,7 @@
                     "open_issues": 24,
                     "owner": "PyCQA",
                     "repo": "flake8",
-                    "stars": 3826,
+                    "stars": 3825,
                     "topics": [
                       "complexity-analysis",
                       "flake8",
@@ -759,7 +759,7 @@
                     "open_issues": 84,
                     "owner": "fastapi",
                     "repo": "fastapi",
-                    "stars": 102770,
+                    "stars": 102772,
                     "topics": [
                       "api",
                       "async",
@@ -797,11 +797,11 @@
                     "id": 204086862,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-02T22:46:50Z",
-                    "open_issues": 1184,
+                    "last_commit": "2026-10-03T04:42:02Z",
+                    "open_issues": 1185,
                     "owner": "streamlit",
                     "repo": "streamlit",
-                    "stars": 45873,
+                    "stars": 45880,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -868,7 +868,7 @@
                     "open_issues": 643,
                     "owner": "tqdm",
                     "repo": "tqdm",
-                    "stars": 31351,
+                    "stars": 31350,
                     "topics": [
                       "cli",
                       "closember",
@@ -910,7 +910,7 @@
                     "open_issues": 192,
                     "owner": "mkdocs",
                     "repo": "mkdocs",
-                    "stars": 22489,
+                    "stars": 22490,
                     "topics": [
                       "documentation",
                       "markdown",
@@ -1370,7 +1370,7 @@
                 "open_issues": 178,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21925,
+                "stars": 21926,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1444,7 +1444,7 @@
                 "open_issues": 592,
                 "owner": "cvat-ai",
                 "repo": "cvat",
-                "stars": 16851,
+                "stars": 16852,
                 "topics": [
                   "annotation",
                   "annotation-tool",
@@ -1634,7 +1634,7 @@
                 "open_issues": 47,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36945,
+                "stars": 36949,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1681,7 +1681,7 @@
                 "open_issues": 60,
                 "owner": "fivetran",
                 "repo": "great_expectations",
-                "stars": 11855,
+                "stars": 11856,
                 "topics": [
                   "cleandata",
                   "data-engineering",
@@ -1878,7 +1878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:57:09.957Z",
+    "last_updated": "2026-10-03T04:55:35.700Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤓 A curated awesome list of Machine Learning Engineering resources. Feel free to contribute!",
