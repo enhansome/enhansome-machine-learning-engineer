@@ -164,10 +164,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-06T15:57:50Z",
-                    "open_issues": 589,
+                    "open_issues": 591,
                     "owner": "python-poetry",
                     "repo": "poetry",
-                    "stars": 34305,
+                    "stars": 34303,
                     "topics": [
                       "dependency-manager",
                       "package-manager",
@@ -194,7 +194,7 @@
                     "open_issues": 324,
                     "owner": "cookiecutter",
                     "repo": "cookiecutter",
-                    "stars": 25138,
+                    "stars": 25139,
                     "topics": [
                       "cookiecutter",
                       "python"
@@ -218,7 +218,7 @@
                     "open_issues": 165,
                     "owner": "commitizen-tools",
                     "repo": "commitizen",
-                    "stars": 3527,
+                    "stars": 3526,
                     "topics": [
                       "bump-version",
                       "changelog-generator",
@@ -247,7 +247,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-08T19:46:56Z",
-                    "open_issues": 18,
+                    "open_issues": 19,
                     "owner": "nat-n",
                     "repo": "poethepoet",
                     "stars": 2089,
@@ -281,7 +281,7 @@
                     "open_issues": 95,
                     "owner": "cruft",
                     "repo": "cruft",
-                    "stars": 1589,
+                    "stars": 1588,
                     "topics": [
                       "boilerplate",
                       "cookiecutter",
@@ -335,11 +335,11 @@
                     "id": 125266328,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-07T18:52:43Z",
-                    "open_issues": 264,
+                    "last_commit": "2026-10-09T06:32:42Z",
+                    "open_issues": 269,
                     "owner": "psf",
                     "repo": "black",
-                    "stars": 41882,
+                    "stars": 41886,
                     "topics": [
                       "autopep8",
                       "code",
@@ -366,11 +366,11 @@
                     "id": 7053637,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-08T16:17:29Z",
-                    "open_issues": 3242,
+                    "last_commit": "2026-10-09T21:37:22Z",
+                    "open_issues": 3241,
                     "owner": "python",
                     "repo": "mypy",
-                    "stars": 20672,
+                    "stars": 20673,
                     "topics": [
                       "linter",
                       "python",
@@ -397,7 +397,7 @@
                     "open_issues": 262,
                     "owner": "PyCQA",
                     "repo": "bandit",
-                    "stars": 8299,
+                    "stars": 8302,
                     "topics": [
                       "bandit",
                       "linter",
@@ -482,11 +482,11 @@
                     "id": 83462592,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T19:14:09Z",
+                    "last_commit": "2026-10-09T15:15:26Z",
                     "open_issues": 22,
                     "owner": "asottile",
                     "repo": "pyupgrade",
-                    "stars": 4115,
+                    "stars": 4114,
                     "topics": [
                       "linter",
                       "pre-commit",
@@ -511,7 +511,7 @@
                     "open_issues": 24,
                     "owner": "PyCQA",
                     "repo": "flake8",
-                    "stars": 3826,
+                    "stars": 3827,
                     "topics": [
                       "complexity-analysis",
                       "flake8",
@@ -542,10 +542,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-08T12:04:50Z",
-                    "open_issues": 323,
+                    "open_issues": 324,
                     "owner": "coveragepy",
                     "repo": "coveragepy",
-                    "stars": 3412,
+                    "stars": 3414,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
@@ -694,6 +694,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": ":snake: shellcheck",
+                  "description": "Check the quality of your shell scripts",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "python3/pip3 wrapper for installing shellcheck",
+                    "homepage": null,
+                    "id": 219348188,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-08T19:12:15Z",
+                    "open_issues": 0,
+                    "owner": "shellcheck-py",
+                    "repo": "shellcheck-py",
+                    "stars": 244,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T02:10:18.027Z"
+                },
+                {
+                  "node_type": "item",
                   "title": ":snake: pygrep hooks",
                   "description": "A collection of pre-commit hooks that check for common Python code smells",
                   "children": [],
@@ -712,27 +733,6 @@
                     "topics": [
                       "pre-commit"
                     ]
-                  },
-                  "first_seen": "2026-08-29T02:10:18.027Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": ":snake: shellcheck",
-                  "description": "Check the quality of your shell scripts",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "python3/pip3 wrapper for installing shellcheck",
-                    "homepage": null,
-                    "id": 219348188,
-                    "language": "Python",
-                    "license": "MIT",
-                    "last_commit": "2026-10-08T19:12:15Z",
-                    "open_issues": 0,
-                    "owner": "shellcheck-py",
-                    "repo": "shellcheck-py",
-                    "stars": 243,
-                    "topics": []
                   },
                   "first_seen": "2026-08-29T02:10:18.027Z"
                 }
@@ -759,7 +759,7 @@
                     "open_issues": 87,
                     "owner": "fastapi",
                     "repo": "fastapi",
-                    "stars": 102886,
+                    "stars": 102948,
                     "topics": [
                       "api",
                       "async",
@@ -797,11 +797,11 @@
                     "id": 204086862,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-08T23:24:48Z",
-                    "open_issues": 1188,
+                    "last_commit": "2026-10-09T22:33:28Z",
+                    "open_issues": 1226,
                     "owner": "streamlit",
                     "repo": "streamlit",
-                    "stars": 45922,
+                    "stars": 45928,
                     "topics": [
                       "data-analysis",
                       "data-science",
@@ -831,7 +831,7 @@
                     "open_issues": 46,
                     "owner": "fastapi",
                     "repo": "typer",
-                    "stars": 20057,
+                    "stars": 20050,
                     "topics": [
                       "cli",
                       "click",
@@ -865,10 +865,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-05T22:54:41Z",
-                    "open_issues": 651,
+                    "open_issues": 652,
                     "owner": "tqdm",
                     "repo": "tqdm",
-                    "stars": 31355,
+                    "stars": 31353,
                     "topics": [
                       "cli",
                       "closember",
@@ -910,7 +910,7 @@
                     "open_issues": 192,
                     "owner": "mkdocs",
                     "repo": "mkdocs",
-                    "stars": 22495,
+                    "stars": 22496,
                     "topics": [
                       "documentation",
                       "markdown",
@@ -937,7 +937,7 @@
                     "open_issues": 28,
                     "owner": "gaogaotiantian",
                     "repo": "viztracer",
-                    "stars": 7752,
+                    "stars": 7751,
                     "topics": [
                       "debugging",
                       "flamegraph",
@@ -1139,11 +1139,11 @@
                 "id": 74505259,
                 "language": "Jupyter Notebook",
                 "license": "MIT",
-                "last_commit": "2026-10-08T21:25:19Z",
-                "open_issues": 1000,
+                "last_commit": "2026-10-09T06:44:08Z",
+                "open_issues": 1001,
                 "owner": "shap",
                 "repo": "shap",
-                "stars": 25798,
+                "stars": 25800,
                 "topics": [
                   "deep-learning",
                   "explainability",
@@ -1179,7 +1179,7 @@
                 "open_issues": 524,
                 "owner": "lmcinnes",
                 "repo": "umap",
-                "stars": 8271,
+                "stars": 8273,
                 "topics": [
                   "dimensionality-reduction",
                   "machine-learning",
@@ -1287,7 +1287,7 @@
                 "open_issues": 1,
                 "owner": "Separius",
                 "repo": "awesome-sentence-embedding",
-                "stars": 2288,
+                "stars": 2289,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1330,11 +1330,11 @@
                 "id": 148657183,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-08T16:09:20Z",
-                "open_issues": 229,
+                "last_commit": "2026-10-09T14:30:14Z",
+                "open_issues": 224,
                 "owner": "unit8co",
                 "repo": "darts",
-                "stars": 9537,
+                "stars": 9540,
                 "topics": [
                   "anomaly-detection",
                   "data-science",
@@ -1370,7 +1370,7 @@
                 "open_issues": 180,
                 "owner": "recommenders-team",
                 "repo": "recommenders",
-                "stars": 21931,
+                "stars": 21934,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -1440,11 +1440,11 @@
                 "id": 139156354,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-08T18:25:53Z",
-                "open_issues": 571,
+                "last_commit": "2026-10-09T13:10:36Z",
+                "open_issues": 569,
                 "owner": "cvat-ai",
                 "repo": "cvat",
-                "stars": 16880,
+                "stars": 16888,
                 "topics": [
                   "annotation",
                   "annotation-tool",
@@ -1593,7 +1593,7 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-08T19:46:56Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "nat-n",
                 "repo": "poethepoet",
                 "stars": 2089,
@@ -1631,10 +1631,10 @@
                 "language": null,
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-02T05:20:29Z",
-                "open_issues": 48,
+                "open_issues": 50,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36990,
+                "stars": 37000,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1681,7 +1681,7 @@
                 "open_issues": 47,
                 "owner": "fivetran",
                 "repo": "great_expectations",
-                "stars": 11867,
+                "stars": 11869,
                 "topics": [
                   "cleandata",
                   "data-engineering",
@@ -1730,7 +1730,7 @@
                 "open_issues": 10,
                 "owner": "anordal",
                 "repo": "shellharden",
-                "stars": 4809,
+                "stars": 4808,
                 "topics": [
                   "lint",
                   "policy",
@@ -1762,7 +1762,7 @@
                 "open_issues": 6,
                 "owner": "shuaibiyy",
                 "repo": "awesome-tf",
-                "stars": 6611,
+                "stars": 6612,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1853,7 +1853,7 @@
                 "id": 56217288,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-07T08:05:56Z",
+                "last_commit": "2026-10-09T06:20:57Z",
                 "open_issues": 223,
                 "owner": "confluentinc",
                 "repo": "confluent-kafka-python",
@@ -1878,7 +1878,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T23:44:21.454Z",
+    "last_updated": "2026-10-09T23:15:13.119Z",
     "original_repository_info": {
       "archived": false,
       "description": "🤓 A curated awesome list of Machine Learning Engineering resources. Feel free to contribute!",
