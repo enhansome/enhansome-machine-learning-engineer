@@ -4,7 +4,7 @@
 
 <img height="280" src="https://github.com/sindresorhus/awesome/raw/main/media/logo.svg?sanitize=true" alt="Awesome">
 
-For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,216 | 🐛 106 | 📅 2026-09-02.
+For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 517,676 | 🐛 105 | 📅 2026-09-02.
 
 </div>
 
@@ -73,8 +73,8 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Python patterns
 
-* :unicorn: [What the f\*ck Python!](https://github.com/satwikkansal/wtfpython) ⭐ 37,126 | 🐛 73 | 🌐 Python | 📅 2026-01-13 - How to master Python by understanding its edge cases (1 day)
-* :snake: [Please fix your decorators](https://hynek.me/articles/decorators/) - Why you should probably use [`wrapt`](https://github.com/GrahamDumpleton/wrapt) ⭐ 2,310 | 🐛 1 | 🌐 Python | 📅 2026-09-27 to write your decorators (30 min)
+* :unicorn: [What the f\*ck Python!](https://github.com/satwikkansal/wtfpython) ⭐ 37,123 | 🐛 73 | 🌐 Python | 📅 2026-01-13 - How to master Python by understanding its edge cases (1 day)
+* :snake: [Please fix your decorators](https://hynek.me/articles/decorators/) - Why you should probably use [`wrapt`](https://github.com/GrahamDumpleton/wrapt) ⭐ 2,310 | 🐛 3 | 🌐 Python | 📅 2026-09-27 to write your decorators (30 min)
 * :unicorn: [Effective Python](https://github.com/SigmaQuan/Better-Python-59-Ways/blob/master/README.md) ⭐ 1,385 | 🐛 25 | 🌐 Python | 📅 2023-06-13 - A collection of Python idioms (X hours)
 * :hatched\_chick: [PEP20 "The Zen of Python"](https://www.python.org/dev/peps/pep-0020/) - How to write idiomatic Python (15 min)
 * :hatched\_chick: [The Definitive Guide to Python import Statements](https://chrisyeh96.github.io/2017/08/08/definitive-guide-python-imports.html) - How to write import statements (30 min)
@@ -98,25 +98,25 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 #### Workflow
 
-* :snake: [poetry](https://github.com/python-poetry/poetry) ⭐ 34,302 | 🐛 593 | 🌐 Python | 📅 2026-10-06 - Manage the packaging and dependencies of your Python project
-* :snake: [cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 25,140 | 🐛 324 | 🌐 Python | 📅 2026-04-01 - Scaffold new Python packages or apps quickly with a Cookiecutter template
+* :snake: [poetry](https://github.com/python-poetry/poetry) ⭐ 34,305 | 🐛 593 | 🌐 Python | 📅 2026-10-06 - Manage the packaging and dependencies of your Python project
+* :snake: [cookiecutter](https://github.com/cookiecutter/cookiecutter) ⭐ 25,145 | 🐛 326 | 🌐 Python | 📅 2026-04-01 - Scaffold new Python packages or apps quickly with a Cookiecutter template
 * :snake: [commitizen](https://github.com/commitizen-tools/commitizen) ⭐ 3,526 | 🐛 166 | 🌐 Python | 📅 2026-10-08 - Check that commit messages satisfy [Conventional Commits](https://www.conventionalcommits.org/) and automate [Semantic Versioning](https://semver.org/) and [Keep a Changelog](https://keepachangelog.com/)
-* :snake: [poe](https://github.com/nat-n/poethepoet) ⭐ 2,089 | 🐛 19 | 🌐 Python | 📅 2026-10-08 - Define and run tasks in a Poetry project with Poe the Poet
-* :snake: [cruft](https://github.com/cruft/cruft) ⭐ 1,588 | 🐛 95 | 🌐 Python | 📅 2024-12-25 - Update a Python package's underlying Cookiecutter scaffolding
+* :snake: [poe](https://github.com/nat-n/poethepoet) ⭐ 2,089 | 🐛 18 | 🌐 Python | 📅 2026-10-11 - Define and run tasks in a Poetry project with Poe the Poet
+* :snake: [cruft](https://github.com/cruft/cruft) ⭐ 1,589 | 🐛 95 | 🌐 Python | 📅 2024-12-25 - Update a Python package's underlying Cookiecutter scaffolding
 * :snake: [poetry-workspace-plugin](https://github.com/jacksmith15/poetry-workspace-plugin) ⭐ 85 | 🐛 5 | 🌐 Python | 📅 2023-05-04 - Manage a Python monorepo with this Poetry plugin
 
 #### Code quality
 
-* :hatched\_chick: [black](https://github.com/psf/black) ⭐ 41,890 | 🐛 260 | 🌐 Python | 📅 2026-10-10 - Automatically format your code
-* :snake: [mypy](https://github.com/python/mypy) ⭐ 20,674 | 🐛 3,248 | 🌐 Python | 📅 2026-10-10 - Check the type-correctness of your code
-* :snake: [bandit](https://github.com/PyCQA/bandit) ⭐ 8,304 | 🐛 262 | 🌐 Python | 📅 2026-10-06 - Find common security issues
-* :hatched\_chick: [isort](https://github.com/PyCQA/isort) ⭐ 6,963 | 🐛 97 | 🌐 Python | 📅 2026-10-06 - Automatically sort your import statements
+* :hatched\_chick: [black](https://github.com/psf/black) ⭐ 41,900 | 🐛 262 | 🌐 Python | 📅 2026-10-10 - Automatically format your code
+* :snake: [mypy](https://github.com/python/mypy) ⭐ 20,675 | 🐛 3,250 | 🌐 Python | 📅 2026-10-11 - Check the type-correctness of your code
+* :snake: [bandit](https://github.com/PyCQA/bandit) ⭐ 8,306 | 🐛 262 | 🌐 Python | 📅 2026-10-06 - Find common security issues
+* :hatched\_chick: [isort](https://github.com/PyCQA/isort) ⭐ 6,962 | 🐛 100 | 🌐 Python | 📅 2026-10-06 - Automatically sort your import statements
 * :snake: [pre-commit hooks](https://github.com/pre-commit/pre-commit-hooks) ⭐ 6,708 | 🐛 7 | 🌐 Python | 📅 2026-10-08 - A collection of [pre-commit](https://pre-commit.com/) hooks that check file quality
-* :snake: [pyupgrade](https://github.com/asottile/pyupgrade) ⭐ 4,114 | 🐛 22 | 🌐 Python | 📅 2026-10-09 - Check that your code is written using the latest Python language features
+* :snake: [pyupgrade](https://github.com/asottile/pyupgrade) ⭐ 4,113 | 🐛 22 | 🌐 Python | 📅 2026-10-09 - Check that your code is written using the latest Python language features
 * :snake: [flake8](https://github.com/PyCQA/flake8) ⭐ 3,827 | 🐛 24 | 🌐 Python | 📅 2026-10-08 - Check your code for bugs and that your code style is [PEP8](https://peps.python.org/pep-0008/)-compliant
-* :snake: [coverage.py](https://github.com/nedbat/coveragepy) ⭐ 3,416 | 🐛 324 | 🌐 Python | 📅 2026-10-10 - Check your code's test coverage
+* :snake: [coverage.py](https://github.com/nedbat/coveragepy) ⭐ 3,416 | 🐛 323 | 🌐 Python | 📅 2026-10-11 - Check your code's test coverage
 * :snake: [safety](https://github.com/pyupio/safety) ⭐ 2,000 | 🐛 99 | 🌐 Python | 📅 2026-09-04 - Check that your dependencies don't have any known security vulnerabilities
-* :snake: [flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) ⭐ 1,282 | 🐛 1 | 📅 2026-07-21 - An awesome list of Flake8 extensions
+* :snake: [flake8 extensions](https://github.com/DmytroLitvinov/awesome-flake8-extensions) ⭐ 1,283 | 🐛 1 | 📅 2026-07-21 - An awesome list of Flake8 extensions
 * :snake: [pydocstyle](https://github.com/PyCQA/pydocstyle) ⚠️ Archived - Check that your code is documented
 * :snake: [pytest-recording](https://github.com/kiwicom/pytest-recording) ⭐ 616 | 🐛 43 | 🌐 Python | 📅 2026-10-01 - Record and play back HTTP requests in your pytest tests
 * :snake: [darglint](https://github.com/terrencepreilly/darglint) ⚠️ Archived - Check that your docstrings match your function signature
@@ -128,16 +128,16 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 #### Application development
 
-* :snake: [fastapi](https://github.com/tiangolo/fastapi) ⭐ 102,972 | 🐛 87 | 🌐 Python | 📅 2026-10-08 - Create RESTful APIs based on type annotations
-* :snake: [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,932 | 🐛 1,198 | 🌐 Python | 📅 2026-10-10 - Create web apps with a single Python file
-* :snake: [typer](https://github.com/tiangolo/typer) ⭐ 20,055 | 🐛 46 | 🌐 Python | 📅 2026-10-06 - Create CLIs based on type annotations
+* :snake: [fastapi](https://github.com/tiangolo/fastapi) ⭐ 103,020 | 🐛 88 | 🌐 Python | 📅 2026-10-08 - Create RESTful APIs based on type annotations
+* :snake: [streamlit](https://github.com/streamlit/streamlit) ⭐ 45,948 | 🐛 1,197 | 🌐 Python | 📅 2026-10-11 - Create web apps with a single Python file
+* :snake: [typer](https://github.com/tiangolo/typer) ⭐ 20,064 | 🐛 46 | 🌐 Python | 📅 2026-10-06 - Create CLIs based on type annotations
 
 #### Utilities
 
-* :snake: [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,353 | 🐛 652 | 🌐 Python | 📅 2026-10-05 - Easily add progress bars to long-running jobs
-* :snake: [mkdocs](https://github.com/mkdocs/mkdocs) ⭐ 22,496 | 🐛 192 | 🌐 Python | 📅 2025-10-20 - Create developer documentation for your project
-* :snake: [viztracer](https://github.com/gaogaotiantian/viztracer) ⭐ 7,753 | 🐛 28 | 🌐 Python | 📅 2026-09-26 - Vizualize your code's performance with a [flamegraph](https://www.brendangregg.com/flamegraphs.html)
-* :snake: [pdoc](https://github.com/mitmproxy/pdoc) ⭐ 2,514 | 🐛 74 | 🌐 Python | 📅 2026-07-01 - Generate API documentation for your code
+* :snake: [tqdm](https://github.com/tqdm/tqdm) ⭐ 31,353 | 🐛 654 | 🌐 Python | 📅 2026-10-05 - Easily add progress bars to long-running jobs
+* :snake: [mkdocs](https://github.com/mkdocs/mkdocs) ⭐ 22,497 | 🐛 192 | 🌐 Python | 📅 2025-10-20 - Create developer documentation for your project
+* :snake: [viztracer](https://github.com/gaogaotiantian/viztracer) ⭐ 7,754 | 🐛 28 | 🌐 Python | 📅 2026-09-26 - Vizualize your code's performance with a [flamegraph](https://www.brendangregg.com/flamegraphs.html)
+* :snake: [pdoc](https://github.com/mitmproxy/pdoc) ⭐ 2,515 | 🐛 74 | 🌐 Python | 📅 2026-07-01 - Generate API documentation for your code
 * :snake: [birdseye](https://github.com/alexmojaki/birdseye) ⭐ 1,772 | 🐛 26 | 🌐 JavaScript | 📅 2026-01-11 - Graphically debug your Python code
 * :snake: [hvplot](https://github.com/holoviz/hvplot) ⭐ 1,359 | 🐛 403 | 🌐 Python | 📅 2026-09-30 - Create interactive plots from pandas dataframes
 * :snake: [bump2version](https://github.com/c4urself/bump2version) ⭐ 1,118 | 🐛 115 | 🌐 Python | 📅 2025-02-20 - Release a new version of your package
@@ -164,13 +164,13 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Explainability
 
-* :snake: [SHAP: SHapley Additive exPlanations](https://github.com/slundberg/shap) ⭐ 25,803 | 🐛 1,001 | 🌐 Jupyter Notebook | 📅 2026-10-09 - How to explain a model's output with Shapley values (30 min)
+* :snake: [SHAP: SHapley Additive exPlanations](https://github.com/slundberg/shap) ⭐ 25,805 | 🐛 1,000 | 🌐 Jupyter Notebook | 📅 2026-10-09 - How to explain a model's output with Shapley values (30 min)
 * :unicorn: [Intro to Shapley and SHAP](https://edden-gerber.github.io/shapley-part-1/) - How Shapley values are approximated by SHAP (30 min)
 
 ### Unsupervised
 
-* :snake: [UMAP: Uniform Manifold Approximation and Projection](https://github.com/lmcinnes/umap) ⭐ 8,273 | 🐛 527 | 🌐 Python | 📅 2026-10-08 - How to reduce dimensionality for visualization and modelling (30 min)
-* :snake: [PyNNDescent](https://github.com/lmcinnes/pynndescent) ⭐ 970 | 🐛 81 | 🌐 Python | 📅 2026-10-08 - How to find nearest neighbours in huge datasets (15 min)
+* :snake: [UMAP: Uniform Manifold Approximation and Projection](https://github.com/lmcinnes/umap) ⭐ 8,273 | 🐛 529 | 🌐 Python | 📅 2026-10-08 - How to reduce dimensionality for visualization and modelling (30 min)
+* :snake: [PyNNDescent](https://github.com/lmcinnes/pynndescent) ⭐ 971 | 🐛 82 | 🌐 Python | 📅 2026-10-08 - How to find nearest neighbours in huge datasets (15 min)
 
 ### Classification
 
@@ -184,7 +184,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Computer Vision
 
-* :snake: [Microsoft's Document Image Transformer](https://github.com/microsoft/unilm/tree/master/dit) ⭐ 22,229 | 🐛 688 | 🌐 Python | 📅 2026-09-21 - A self-supervised pre-trained model that achieves SotA performance on [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) ⭐ 1,062 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2025-07-09 and can be used for various downstream tasks (30 min)
+* :snake: [Microsoft's Document Image Transformer](https://github.com/microsoft/unilm/tree/master/dit) ⭐ 22,230 | 🐛 688 | 🌐 Python | 📅 2026-09-21 - A self-supervised pre-trained model that achieves SotA performance on [PubLayNet](https://github.com/ibm-aur-nlp/PubLayNet) ⭐ 1,062 | 🐛 24 | 🌐 Jupyter Notebook | 📅 2025-07-09 and can be used for various downstream tasks (30 min)
 
 ### Natural Language Processing
 
@@ -192,12 +192,12 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Time Series Analysis
 
-* :snake: [Darts - Time Series Made Easy in Python](https://github.com/unit8co/darts) ⭐ 9,540 | 🐛 228 | 🌐 Python | 📅 2026-10-10 - How to build forecasting models with `darts` (1 hour)
+* :snake: [Darts - Time Series Made Easy in Python](https://github.com/unit8co/darts) ⭐ 9,540 | 🐛 231 | 🌐 Python | 📅 2026-10-10 - How to build forecasting models with `darts` (1 hour)
 * :snake: [The Prophet model](https://otexts.com/fpp3/prophet.html) - How Meta's Prophet model decomposes a time series into a trend, seasonality, and holiday components (30 min)
 
 ### Recommender Systems
 
-* :snake: [Microsoft Recommenders](https://github.com/microsoft/recommenders) ⭐ 21,939 | 🐛 180 | 🌐 Python | 📅 2026-10-07 - A comparison of recommender system models (30 min)
+* :snake: [Microsoft Recommenders](https://github.com/microsoft/recommenders) ⭐ 21,938 | 🐛 180 | 🌐 Python | 📅 2026-10-07 - A comparison of recommender system models (30 min)
 
 ### Tensor computation libraries
 
@@ -218,16 +218,16 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Labelling
 
-* :snake: [CVAT: Computer Vision Annotation Tool](https://github.com/openvinotoolkit/cvat) ⭐ 16,896 | 🐛 569 | 🌐 Python | 📅 2026-10-09 - A tool for labelling images (30 min)
-* :snake: [Doccano](https://github.com/doccano/doccano) ⭐ 10,794 | 🐛 399 | 🌐 Python | 📅 2026-04-14 - A tool for labelling text (30 min)
+* :snake: [CVAT: Computer Vision Annotation Tool](https://github.com/openvinotoolkit/cvat) ⭐ 16,899 | 🐛 570 | 🌐 Python | 📅 2026-10-09 - A tool for labelling images (30 min)
+* :snake: [Doccano](https://github.com/doccano/doccano) ⭐ 10,793 | 🐛 399 | 🌐 Python | 📅 2026-04-14 - A tool for labelling text (30 min)
 * :snake: [Awesome Data Labelling](https://github.com/heartexlabs/awesome-data-labeling) ⭐ 4,422 | 🐛 58 | 📅 2024-06-17 - An awesome list of data labelling tools (30 min)
 
 ## DevOps
 
 ### CI/CD
 
-* :snake: [invoke](https://github.com/pyinvoke/invoke) ⭐ 4,778 | 🐛 467 | 🌐 Python | 📅 2026-04-07 - How to implement common tasks you run on your project as a CLI (30 min)
-* :snake: [poe](https://github.com/nat-n/poethepoet) ⭐ 2,089 | 🐛 19 | 🌐 Python | 📅 2026-10-08 - How to implement common tasks you run on your project as a CLI (30 min)
+* :snake: [invoke](https://github.com/pyinvoke/invoke) ⭐ 4,778 | 🐛 468 | 🌐 Python | 📅 2026-04-07 - How to implement common tasks you run on your project as a CLI (30 min)
+* :snake: [poe](https://github.com/nat-n/poethepoet) ⭐ 2,089 | 🐛 18 | 🌐 Python | 📅 2026-10-11 - How to implement common tasks you run on your project as a CLI (30 min)
 
 ### Environment and dependency management
 
@@ -238,7 +238,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Docker
 
-* :unicorn: [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,008 | 🐛 50 | 📅 2026-10-02 - An awesome list of Docker resources (30 min)
+* :unicorn: [Awesome Docker](https://github.com/veggiemonk/awesome-docker) ⭐ 37,012 | 🐛 50 | 📅 2026-10-02 - An awesome list of Docker resources (30 min)
 * :hatched\_chick: [Docker Curriculum](https://docker-curriculum.com/) - How to use Docker (4 hours)
 * :snake: [Docker layer caching](https://pythonspeed.com/articles/docker-caching-model/) - How to write Dockerfiles to benefit from layer caching (30 min)
 * :snake: [Dockerfile best practices](https://docs.docker.com/develop/develop-images/dockerfile_best-practices/) - How to write good Dockerfiles (1 hour)
@@ -250,11 +250,11 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Data pipelines
 
-* :snake: [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,867 | 🐛 49 | 🌐 Python | 📅 2026-10-10 - How to test and document your data and data pipelines (30 min)
+* :snake: [Great Expectations](https://github.com/great-expectations/great_expectations) ⭐ 11,867 | 🐛 50 | 🌐 Python | 📅 2026-10-11 - How to test and document your data and data pipelines (30 min)
 
 ### Shell
 
-* :snake: [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) ⭐ 4,808 | 🐛 10 | 🌐 Rust | 📅 2026-07-09 - How to write safe and robust shell scripts (1 hour)
+* :snake: [Safe ways to do things in bash](https://github.com/anordal/shellharden/blob/master/how_to_do_things_safely_in_bash.md) ⭐ 4,807 | 🐛 10 | 🌐 Rust | 📅 2026-07-09 - How to write safe and robust shell scripts (1 hour)
 * :snake: [Cron best practices](https://blog.sanctum.geek.nz/cron-best-practices/) - How to best use cron to schedule tasks (30 min)
 * :snake: [A visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/) - How to forward ports and create tunnels with SSH (30 min)
 * :unicorn: [Your terminal is not a terminal: An Introduction to Streams](https://lucasfcosta.com/2019/04/07/streams-introduction.html) - How your terminal is a tool to manipulate streams (30 min)
@@ -271,7 +271,7 @@ For more awesomeness, check out [![Awesome](https://cdn.rawgit.com/sindresorhus/
 
 ### Infrastructure
 
-* :unicorn: [Kafka Exactly-Once-Semantics](https://github.com/confluentinc/confluent-kafka-python/releases/tag/v1.4.0) ⭐ 518 | 🐛 224 | 🌐 Python | 📅 2026-10-09 - How to produce and consume messages exactly once (1 hour)
+* :unicorn: [Kafka Exactly-Once-Semantics](https://github.com/confluentinc/confluent-kafka-python/releases/tag/v1.4.0) ⭐ 520 | 🐛 223 | 🌐 Python | 📅 2026-10-09 - How to produce and consume messages exactly once (1 hour)
 * :hatched\_chick: [Using Redis In-Memory Storage for your Python Applications](https://hackersandslackers.com/redis-py-python/) - How to use Redis as an in-memory cache for your Python application (30 min)
 * :snake: [Python Kafka Consumers: at-least-once, at-most-once, exactly-once](https://www.thebookofjoel.com/python-kafka-consumers) - How to write different types of Kafka consumers in Python (30 min)
 * :unicorn: [RabbitMQ: a message queue library with persistance](https://www.rabbitmq.com/tutorials/tutorial-one-python.html) - RabbitMQ is a messaging system with a message broker (4 hours)
@@ -295,4 +295,4 @@ We work hard and we have fun together. We foster a culture of collaboration, whe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-10._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-11._
